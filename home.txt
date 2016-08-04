@@ -5,7 +5,7 @@
 <channel>
 <name>Live TV</name>
 <thumbnail>http://SimpleKore.com/Tut/VideoAddon/Livetv.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/AnnonZerp/VolvoxTV/master/movies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/AnnonZerp/VolvoxTV/master/live.txt</externallink>
 <fanart>http://SimpleKore.com/Tut/VideoAddon/fanart.jpg</fanart>
 <info>TV Shows</info>
 </channel>
@@ -13,7 +13,7 @@
 <channel>
 <name>Movies</name>
 <thumbnail>http://SimpleKore.com/Tut/VideoAddon/movies.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/AnnonZerp/VolvoxTV/master/live.txt</externallink>
+<externallink>https://raw.githubusercontent.com/AnnonZerp/VolvoxTV/master/movies.txt</externallink>
 <fanart>http://SimpleKore.com/Tut/VideoAddon/fanart.jpg</fanart>
 <info>Movies</info>
 </channel>
