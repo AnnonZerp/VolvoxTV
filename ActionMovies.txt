@@ -1,0 +1,610 @@
+<item>
+<title>[COLOR gold]----- NEW RELEASE MOVIES -----[/COLOR]</title>
+<link>ignorme</link>
+<thumbnail></thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Jason Bourne 2016 Cam</title>
+<link>
+sublink:http://163.172.214.101/hls/,ykgiosxzk62birmpnhvgrjzohmv4aisdffyianqrinpdsxkogqnmwgddgzzq,.urlset/master.m3u8#
+sublink:http://dl.fardadownload.ir/Film/2016/Jason.Bourne.2016.CAM.V2.FardaDownload.mkv#
+sublink:http://vidbull.com/mhjkom2h1i8q.html:#
+</link>
+<thumbnail>https://pics.castofmovies.com/2016/04/JasonBourne01.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Mechanic Resurrection 2016 Cam</title>
+<link>
+sublink:http://163.172.28.155/ykgip577k62birmpnhvgrkjpeei5ppkbmdy2v7xkhazusb7buc5khl2vrtwa/v.mp4#
+sublink:http://dl.fardadownload.ir/Film/2016/Mechanic.Resurrection.2016.CAM.FardaDownload.mkv#
+sublink:http://thevideo.me/z1q678bxmm3t:#
+</link>
+<thumbnail>http://www.ramascreen.com/wp-content/uploads/2016/06/Mechanic-Resurrection.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]---------------------------------------[/COLOR]</title>
+<link>ignorme</link>
+<thumbnail></thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>3 Days To Kill 2014</title>
+<link>http://www.deadlyblogger.com/NewRelease/3days.mp4</link>
+<thumbnail>http://www.cinehorizons.net/sites/default/files/affiches/1570302711-3-days-to-kill.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+ 
+<item>
+<title>3 Days to Kill link 2</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/3DaystoKillDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://medias.unifrance.org/medias/214/248/129238/format_page/3-days-to-kill.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>13 Hours The Secret Soldiers of Benghazi</title>
+<link>http://dl.movieo.ir/dlha/files/13.Hours.The.Secret.Soldiers.of.Benghazi.2016.720p.Ganool.mkv</link>
+<thumbnail>http://filmpjekijken.com/Content/upload/prijsvraag-13-hours-the-secret-soldiers-of-benghazi-poster.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>16 Blocks</title>
+<link>http://vidzi.tv/3ewab0daeqiv.html</link>
+<thumbnail>http://www.craigerscinemacorner.com/Images/16blocks_poster.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>300 Rise Of An Empire 2014</title>
+<link>http://www.deadlyblogger.com/NewRelease/300rise.mp4</link>
+<thumbnail>http://blogs-images.forbes.com/markhughes/files/2014/03/300-ROAE-3.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+ 
+<item>
+<title>300 Rise of An Empire HDRip</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/300RisofAnEmpireHDRip-TylerMovieLand.mp4</link>
+<thumbnail>https://sleeplessthought.files.wordpress.com/2014/02/hr_300-_rise_of_an_empire_30.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>20000 Days on Earth</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/20000DaysonEarthDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://www.cinedetour.it/newsletter/wp-content/uploads/2014/12/nick_cave_20000_days_on_earth_detour.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>After the Fall 2014 720p</title>
+<link>http://vidzi.tv/nepqszwtffv6.html
+</link>
+<thumbnail>http://film-online.org/uploads/posts/2014-12/1419747489_after.jpg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/GOODFELLAS2.jpg</fanart>
+</item>
+
+<item>
+<title>A Knights Tale</title>
+<link>http://vidzi.tv/urviri5z5958.html</link>
+<thumbnail>http://www.highlandernews.org/wp-content/uploads/2013/02/A-Knights-Tale-2001-movie-poster.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>American Gangster</title>
+<link>http://75.132.200.211:8112/emby/videos/0ca8f397a61f666ee46001cffccf594e/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=0ca8f397a61f666ee46001cffccf594e&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&VideoBitrate=34274594&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=0ae89e3371ba4545b892e31ff13bc130&api_key=713dbb9b0093461bbed450c2e99a22c1&CopyTimestamps=true&ForceLiveStream=false</link>
+<thumbnail>https://i.jeded.com/i/american-gangster.15147.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>American Justice 2015</title>
+<link>http://vidzi.tv/qxxybxscow5q.html</link>
+<thumbnail>http://axxomovies.org/wp-content/uploads/2015/02/American-Justice-2015-movie-poster.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+ 
+<item>
+<title>A Night in Old Mexico</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/ANightinOldMexicoDVD-TylerMovieLand.mp4</link>
+<thumbnail>https://infi2011.files.wordpress.com/2014/05/a-night-in-old-mexico-poster-artwork-robert-duvall-jeremy-irvine-angie-cepeda.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Animal</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/AnimalDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://i43.tower.com/images/mm110663015/animal-terrence-howard-dvd-cover-art.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>A Walk Among the Tombstones</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/AWalkAmongtheTombstonesHDRip-TylerMovieLand.mp4</link>
+<thumbnail>http://www.newdvdreleasedates.com/images/posters/full/a-walk-among-the-tombstones-2014-01.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Bad Boys</title>
+<link>http://vidzi.tv/uwhbucuy81jm.html</link>
+<thumbnail>http://4.bp.blogspot.com/-eQhOGpyesOg/UG2tk5SlI-I/AAAAAAAABmM/WmddXD9fLz8/s1600/badboys.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Bad Boys 2</title>
+<link>http://www.deadlyblogger.com/NewRelease/badboys2.mp4</link>
+<thumbnail>http://www.cyber-cinema.com/italian/BadBoysItalian.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Black Mass</title>
+<link>http://dl.movieo.ir/dlha/files/Bridge.of.Spies.2015.HDrip_(wWw.Movieo.IR).mkv</link>
+<thumbnail>https://buzzhub.files.wordpress.com/2015/12/black-mass-poster.jpg?w=797</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Born to Race Fast Track</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/BorntoRaceFastTrackDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-upzPi5SYFXA/UcD4lR2Qw-I/AAAAAAAAArQ/Kj_DAD6I8v8/s1600/born+to+race+poster.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Bridge Of Spies</title>
+<link>http://vidzi.tv/fqj5tlvsl409.html</link>
+<thumbnail>http://www.tribute.ca/tribute_objects/images/movies/Bridge_of_Spies/BridgeofSpies.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Cell 2016 HDRip</title>
+<link>http://72.75.206.157/emby/videos/6b25e5febd9ee8ab4b657f2641ed8b42/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=deee256753c90bb512cb7a3fe684e4d3&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=-1&VideoBitrate=174417454&AudioBitrate=128000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=db309df44be94a388c3ed307b0f95ae8&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&EnableSubtitlesInManifest=false</link>
+<thumbnail>http://www.thewrap.com/wp-content/uploads/2016/04/cell-poster.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Crocodile Dundee 1986</title>
+<link>http://vidto.me/gtqyqpz0u3cb.html</link>
+<thumbnail>http://image.tmdb.org/t/p/original/8n2WdeSVE2Po7jXTgrs3WFkPlol.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Crocodile Dundee II</title>
+<link>http://vidzi.tv/mdzq6e3jys4a.html</link>
+<thumbnail>https://fanart.tv/fanart/movies/9396/movieposter/crocodile-dundee-ii-52234c34a4d85.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Eagle Eye</title>
+<link>http://thevideo.me/yfhzlrfj6hm9</link>
+<thumbnail>http://www.dvdsreleasedates.com/covers/eagle-eye-dvd-cover-48.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Eye In The Sky 2015 HD</title>
+<link>http://thevideo.me/ncx0oxnr2jtx</link>
+<thumbnail>http://i0.wp.com/teaser-trailer.com/wp-content/uploads/eye_in_the_sky.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Free State Of Jones 2016 CAM</title>
+<link>http://vidzi.tv/kepmbcsuh2fj</link>
+<thumbnail>http://www.flickeringmyth.com/wp-content/uploads/2016/01/free-state-of-jones-poster.jpg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Full Metal Jacket</title>
+<link>http://72.75.206.157/emby/videos/0d6eb0120eb01fac37693b4c5270459f/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=0d6eb0120eb01fac37693b4c5270459f&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&SubtitleStreamIndex=3&VideoBitrate=154831515&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=162be90af9c147e6a36b33b373db1876&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&SubtitleMethod=Encode&EnableSubtitlesInManifest=false</link>
+<thumbnail>https://thesouloftheplot.files.wordpress.com/2014/06/poster_fullmetaljacket.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Fury</title>
+<link>http://75.132.200.211:8112/emby/videos/cbe6589df8c8aaf6c0a3e57fb5e1deb3/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=cbe6589df8c8aaf6c0a3e57fb5e1deb3&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&VideoBitrate=108616170&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=c4c30421b78d4d12a47f86381e9fe9bc&api_key=713dbb9b0093461bbed450c2e99a22c1&CopyTimestamps=true&ForceLiveStream=false</link>
+<thumbnail>http://www.mediamikes.com/wp-content/uploads/2014/10/Fury-2014-Movie-Poster.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Gods of Egypt 2016 BDRip</title>
+<link>http://vidzi.tv/1tpkutkfh3fs-70082acdeb9971ee2a5a7b02ad480afe.m3u8?embed=1</link>
+<externallink></externallink>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<thumbnail>http://www.movierulz25.com/wp-content/uploads/2015/12/God-of-Egypt-Teaser-Poster-review-images-cast-wiki.jpg</thumbnail>
+</item>
+
+<item>
+<title>Gone In 60 Seconds</title>
+<link>http://vidzi.tv/10g3c9cemmqt.html</link>
+<thumbnail>http://static.cinemagia.ro/img/db/movie/00/00/02/gone-in-sixty-seconds-107516l.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Gran Torino</title>
+<link>http://75.132.200.211:8112/emby/videos/9d91525363aedf17e556e2be0c349ae0/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=9d91525363aedf17e556e2be0c349ae0&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&VideoBitrate=108616170&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=a6d437c5f8bc4d5dbae2556b9dc92a60&api_key=713dbb9b0093461bbed450c2e99a22c1&CopyTimestamps=true&ForceLiveStream=false</link>
+<thumbnail>http://images2.fanpop.com/image/photos/9000000/DVD-cover-gran-torino-9054566-490-725.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Gridlocked 2015</title>
+<link>http://vidzi.tv/r4t8s3sshexd.html</link>
+<thumbnail>http://pics.filmaffinity.com/gridlocked-837965280-large.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>High Rise</title>
+<link>http://vidzi.tv/k6tvvksiwwqb.html</link>
+<thumbnail>http://www.flickeringmyth.com/wp-content/uploads/2016/02/high-rise-poster.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>John Wick 2014</title>
+<link>http://vidzi.tv/k1mwr0lypioz.html<link>
+<thumbnail>http://images.flickdirect.com/movies/john-wick/john-wick-poster.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>London Has Fallen</title>
+<link>http://72.75.206.157/emby/videos/ce213ee61bca4be305ebde8e2b7ff1f3/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=ce213ee61bca4be305ebde8e2b7ff1f3&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&SubtitleStreamIndex=4&VideoBitrate=191680000&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=b82349daf5184ad29da4c771c8f9e27e&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&SubtitleMethod=Encode&EnableSubtitlesInManifest=false</link>
+<thumbnail>http://www.ecodelcinema.com/wp-content/uploads/2016/01/london-has-fallen.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Lucy 2014</title>
+<link>http://vidzi.tv/m90g7zidvie2.html<link>
+<thumbnail>http://cdn1.sciencefiction.com/wp-content/uploads/2014/07/lucy-movie-poster-a-peek-at-powers-in-lucy.jpeg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Marauders 2016</title>
+<link>http://vidzi.tv/dkjl1yuzyvp7</link>
+<thumbnail>http://o.aolcdn.com/dims5/amp:94f5044e7c753ab52acc8ffca7e775d833ce1ed7/r:360,540/?url=http%3A%2Faolx.tmsimg.com%2Fmovieposters%2Fv7%2FAllPhotos%2F12919618%2Fp12919618_p_v7_aa.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Money Monster 2016 HD Cam</title>
+<link>http://vidzi.tv/f8o122sxgu5i.html</link>
+<thumbnail>http://www.sonypictures.com/movies/moneymonster/assets/images/onesheet.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Olympus Has Fallen</title>
+<link>http://72.75.206.157/emby/videos/79fe4849f25fd6df637df728997994db/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=79fe4849f25fd6df637df728997994db&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&SubtitleStreamIndex=3&VideoBitrate=191680000&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=91b5325f61954ff4858380b7bf260a6e&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&SubtitleMethod=Encode&EnableSubtitlesInManifest=false</link>
+<thumbnail>http://static3.businessinsider.com/image/5149ca6aeab8eaa77900000a-960/olympus-has-fallen.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>  
+<title>No Escape 2014</title>
+<link>http://vidzi.tv/jcg8fdbjm009</link>
+<thumbnail>http://www.reellifewithjane.com/wp-content/uploads/2015/09/No-Escape.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Now You See Me 2013</title>
+<link>http://vidbull.com/basfpm7xsdk4.html</link>
+<thumbnail>http://mit.zenfs.com/255/2013/05/Now-You-See-Me-.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Now You See Me 2 2016 Cam</title>
+<link>http://streamin.to/f97v1wb9hfqh<link>
+<thumbnail>http://www.caribpress.com/wp-content/uploads/2016/05/Now-You-See-Me-2-363x500.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Numb 2015 HDRip</title>
+<link>http://vidbull.com/d33mb70gfy9d.html</link>
+<thumbnail>http://www.ourrelease.org/bittorrent/upimg/160719/2_000139.gif</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Pele Birth Of A Legend 2016</title>
+<link>http://vidzi.tv/lmkdefy3khe2<link>
+<thumbnail>http://zayzay.com/wp-content/uploads/2016/05/PEL%C3%89_BIRTH-OF-A-LEGEND.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Precious Cargo 2016</title>
+<link>http://vidto.me/hdd70u7dpd6x.html<link>
+<thumbnail>http://www.hdfilmdeposu.net/thumb/193x301/uploads/film/2016/04/precious-cargo-2016-turkce-altyazili-izle-865.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Purge Election Year 2016 HD Cam</title>
+<link>http://vidzi.tv/dv9arm22fhwd.html</link>
+<thumbnail>http://kinosvit.tv/uploads/posts/2016-02/1455895460_sudnaya-noch-3-the-purge-election-year-2016.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Risen</title>
+<link>http://vidzi.tv/50jv791mt7gh.html</link>
+<thumbnail>http://i2.wp.com/teaser-trailer.com/wp-content/uploads/risen.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Rocky</title>
+<link>http://72.75.206.157/emby/videos/a9d61e172f9308eec32920e24f1c688e/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=a9d61e172f9308eec32920e24f1c688e&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&VideoBitrate=189309630&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=b44dce9e51c44861aef07dad1eb8df44&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&EnableSubtitlesInManifest=false</link>
+<thumbnail>http://oneguyrambling.com/wp-content/uploads/2012/11/rocky-2.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Rocky II</title>
+<link>http://184.18.52.4:8080/emby/Videos/66f7fd83383faeb1359d76059c9e7e00/stream.mp4?Static=true&mediaSourceId=66f7fd83383faeb1359d76059c9e7e00&deviceId=cf201a622f604fc513850acfb2477bcb&api_key=a20ded0fd6e848fba8cb43b4203e23e6</link>
+<thumbnail>http://www.deathbymovies.com/wp-content/uploads/2012/05/rocky-2.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Rocky III</title>
+<link>http://184.18.52.4:8080/emby/Videos/e9b4f1c6daa466f529bbcdc5783e67bd/stream.mp4?Static=true&mediaSourceId=e9b4f1c6daa466f529bbcdc5783e67bd&deviceId=cf201a622f604fc513850acfb2477bcb&api_key=a20ded0fd6e848fba8cb43b4203e23e6</link>
+<thumbnail>http://static.cinemagia.ro/img/db/movie/00/10/99/rocky-iii-466945l.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Rocky IV</title>
+<link>http://184.18.52.4:8080/emby/Videos/d73ce141520c1e5b40e2345c73fa758b/stream.mp4?Static=true&mediaSourceId=d73ce141520c1e5b40e2345c73fa758b&deviceId=cf201a622f604fc513850acfb2477bcb&api_key=a20ded0fd6e848fba8cb43b4203e23e6</link>
+<thumbnail>http://1.bp.blogspot.com/-sfC8qRnU4j8/Urzh-F-JnoI/AAAAAAAAomw/DaquASFWJFY/s1600/Rocky+IV+poster.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Rocky V</title>
+<link>http://184.18.52.4:8080/emby/Videos/d5e518d4d2974c5c90bdb4bdc1dc548f/stream.mp4?Static=true&mediaSourceId=d5e518d4d2974c5c90bdb4bdc1dc548f&deviceId=cf201a622f604fc513850acfb2477bcb&api_key=a20ded0fd6e848fba8cb43b4203e23e6</link>
+<thumbnail>http://cdn1.ciberdvd.com/wp-content/uploads/2014/02/rocky_v.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Rocky Balboa</title>
+<link>http://vidzi.tv/x2w6b1rf9nze.html</link>
+<thumbnail>http://2.bp.blogspot.com/_OTq6s1gvQgI/TGI0InU_-5I/AAAAAAAAAkk/LWC9paNqQ80/s1600/Rocky+VI+Balboa.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Creed</title>
+<link>http://72.75.206.157/emby/videos/9423d3deff838129cadd1ee46fff1262/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=9423d3deff838129cadd1ee46fff1262&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&VideoBitrate=189309630&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=b80b7302bd724cafb7b584541015ff8e&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&EnableSubtitlesInManifest=false</link>
+<thumbnail>http://www.blackfilm.com/read/wp-content/uploads/2015/10/Creed-poster-Michael-B.-Jordan.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>Point Break 2016</title>
+<link>http://75.132.200.211:8112/emby/videos/732703a55016e44dcc190dcffe67b956/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=732703a55016e44dcc190dcffe67b956&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&VideoBitrate=34274594&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=481a464e4eed439c8a98910d10b3f491&api_key=713dbb9b0093461bbed450c2e99a22c1&CopyTimestamps=true&ForceLiveStream=false</link>
+<thumbnail>http://www.allmovie.es/image/2016/01/point-break-(sin-limites)-2016.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Solace 2015 HD</title>
+<link>http://dl.tehmovies.com/94/10/Solace.2015.720p.Tehmovies.ir.mkv</link>
+<thumbnail>http://www.woodbangers.com/u/media/moxie/files/W/Wo/Woo/WoodBangers/solace.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Spectre</title>
+<link>http://72.75.206.157/emby/videos/fda05670c35afc70cce0de3ea5976817/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=fda05670c35afc70cce0de3ea5976817&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&SubtitleStreamIndex=5&VideoBitrate=174225454&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=4d8550190f1c423b930c75c83659bbe9&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&SubtitleMethod=Encode&EnableSubtitlesInManifest=false</link>
+<thumbnail>http://s23.postimg.org/4scvh325n/spectre_ver5_xlg_1.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Straight Outta Compton</title>
+<link>http://dl.movieo.ir/dlha/files/Straight.Outta.Compton.2015.720p.WEB-DL_(wWw.Movieo.IR).mkv</link>
+<thumbnail>http://pic.yify-torrent.org/20160106/39801/straight-outta-compton-2015-1080p-cover.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>The Asian Connection (2016)</title>
+<link>
+sublink:http://videomega.tv/?ref=KfwlKWj350053jWKlwfK:#
+sublink:http://www.nowvideo.li/video/89d1f1c2529a2:#
+sublink:http://streamin.to/rkjvcudditw5:#
+</link>
+<thumbnail>http://www.cb01.co/imgk/asian.jpg?6ea78d</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Big Short</title>
+<link>http://vidzi.tv/h5qs9owfigw3.html</link>
+<thumbnail>http://www.dvdsreleasedates.com/covers/the-big-short-dvd-cover-56.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>The Book Of Eli</title>
+<link>http://75.132.200.211:8112/emby/videos/adec3c71bfc3e02645043c8cdc57bc08/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=adec3c71bfc3e02645043c8cdc57bc08&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&VideoBitrate=128755630&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=1cdabd2232ff45b9a86ef33e9264d8b9&api_key=713dbb9b0093461bbed450c2e99a22c1&CopyTimestamps=true&ForceLiveStream=false</link>
+<thumbnail>http://www.film-rezensionen.de/wp-content/uploads/2010/08/The-Book-Of-Eli.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>The Divergent Series Allegiant Part 1 2016</title>
+<link>http://vidzi.tv/p3wl5xmfhek0.html<link>
+<thumbnail>http://newmovies2015.net/wp-content/uploads/2015/01/Allegiant-Part-1.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Duel 2016</title>
+<link>http://vidzi.tv/h78ea5pe3u5w.html<link>
+<thumbnail>http://www.movie-list.com/img/posters/big/zoom/duel.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Equalizer 2014</title>
+<link>http://vidzi.tv/4zd5i1dii7v5.html<link>
+<thumbnail>http://www.blackfilm.com/read/wp-content/uploads/2014/07/The-Equalizer-IMAX-poster.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>The Gunman 2015</title>
+<link>http://vidzi.tv/gcyihgacxcic.html<link>
+<thumbnail>http://cdn.screenrant.com/wp-content/uploads/The-Gunman-Sean-Penn-Official-Poster.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Fast and the Furious 2001</title>
+<link>http://vidzi.tv/7mkmgowjwf4c.html</link>
+<thumbnail>http://3.bp.blogspot.com/-C5ZFjd_KwL8/TmIe97AKl8I/AAAAAAAAADM/WuFD1ddfYQE/s1600/the-fast-and-the-furious.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>2 Fast 2 Furious 2003</title>
+<link>http://vidzi.tv/1kbythjxx3cg.html</link>
+<thumbnail>http://1.bp.blogspot.com/_3N0VetpYvQE/S9jPxUHpS_I/AAAAAAAACus/W3OI-2MkaCY/s1600/2_Fast_2_Furious_6.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Fast and the Furious Tokyo Drift 2006</title>
+<link>http://vidzi.tv/trxzor6r8y44.html</link>
+<thumbnail>http://2.bp.blogspot.com/_XRN97bhAado/TTGDgpLL0EI/AAAAAAAAAYA/MKuXtfqIXQ8/s1600/-and-the-furious-tokyo-drift-original.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fast & Furious 2009</title>
+<link>http://vidbull.com/q1r220vis8sf</link>
+<thumbnail>http://images2.fanpop.com/images/photos/4500000/Fast-Furious-Poster-2-the-fast-and-the-furious-movies-4597915-864-1280.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fast Five 2011</title>
+<link>http://vidto.me/nqii8tgt6eki.html</link>
+<thumbnail>http://www.dvdsreleasedates.com/covers/fast-five-blu-ray-cover-88.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fast & Furious 6 2013</title>
+<link>http://vidzi.tv/rjiqyvt5rokc.html</link>
+<thumbnail>http://entertainment.inquirer.net/wp-content/blogs.dir/6/files/2013/05/Fast-Furious-6.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Furious 7 2015</title>
+<link>
+sublink:http://vidzi.tv/oc3w0elrts7y.html:#
+sublink:http://vidzi.tv/lqaqovxwx1o3.html:#
+</link>
+<thumbnail>http://1.bp.blogspot.com/-6wyKqbq1xtQ/UlLmYnx_JjI/AAAAAAAAANE/XjChGPvx_6E/s1600/Fast+&+Furious+7+Full+Movie+Poster+Image+Wallpaper.png</thumbnail>
+</item>
+
+<item>
+<title>The Hunger Games Mocking Jay Part 2</title>
+<link>http://72.75.206.157/emby/videos/2cc4a67b8c23d8ac440704cd90427912/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=2cc4a67b8c23d8ac440704cd90427912&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&SubtitleStreamIndex=3&VideoBitrate=184740241&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=cfcf711c85134a7992a3cec4500381d9&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&SubtitleMethod=Encode&EnableSubtitlesInManifest=false</link>
+<thumbnail>https://aryanknew.files.wordpress.com/2015/06/2015-the-hunger-games-mockingjay-part-2-movie-dauntless-hunter-poster-the-hunger-games-wallpaper-t05940.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>The Legend of Tarzan 2016 HD TS</title>
+<link>http://vidzi.tv/w6vzh36jyv33.html</link>
+<thumbnail>http://cdn.traileraddict.com/content/warner-bros-pictures/legend-tarzan-2016.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Mummy Tomb of the Dragon Emperor</title>
+<link>http://vidspot.net/0y20sxgadl15.html<link>
+<thumbnail>http://images.scholastic.co.uk/assets/a/8d/99/125179-ml-173045.jpg</thumbnail>
+<fanart>http://www.freewallpapersbase.com/movies/wallpapers2/The-Mummy-Tombof-the-Dragon-Emperor18-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>The Nice Guys 2016</title>
+<link>http://vidbull.com/eiko7q27irbm.html</link>
+<thumbnail>https://s.yimg.com/fz/api/res/1.2/NpAH5xIN.4my0r5h_obCFg--/YXBwaWQ9c3JjaGRkO2JnPWY1ZjVmOTtmaT1maWxsO2g9MjA0O3B4b2ZmPTA7cHlvZmY9MDtxPTk1O3c9MTM3/http://d3.yimg.com/sr/imgv1/4/cacabe88-ce59-3c41-a698-b8676ab422a2</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Revenant</title>
+<link>http://72.75.206.157/emby/videos/f534212c7c4457b7546c08370fe27a70/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=f534212c7c4457b7546c08370fe27a70&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&SubtitleStreamIndex=5&VideoBitrate=210090959&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=58f0ec22dbf646e8982c0605bcd40fa2&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&SubtitleMethod=Encode&EnableSubtitlesInManifest=false</link>
+<thumbnail>https://i.jeded.com/i/the-revenant-2015.39576.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>The Shawshank Redemption</title>
+<link>http://184.18.52.4:8080/emby/videos/2f05ac88bd11b3fd6005c8080f802290/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=2f05ac88bd11b3fd6005c8080f802290&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&VideoBitrate=247613935&AudioBitrate=128000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=5b60b67aecab47549aa95b62a8ed587b&api_key=a20ded0fd6e848fba8cb43b4203e23e6&CopyTimestamps=true&ForceLiveStream=false&EnableSubtitlesInManifest=false</link>
+<thumbnail>http://3.bp.blogspot.com/-Zw17j16SVeY/T5q9Bh8tSqI/AAAAAAAACFE/fHSmH7OvMHI/s1600/The+Shawshank+Redemption+...gif</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>The Trust 2016</title>
+<link>http://vidzi.tv/419e7ff2qyd5.html</link>
+<thumbnail>http://www.labutaca.net/peliculas/wp-content/uploads/2016/03/the-trust-2016-cartel.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Triple 9</title>
+<link>http://72.75.206.157/emby/videos/b4dd2ba5e19db95beb4520d8cece3332/stream.mkv?DeviceId=cf201a622f604fc513850acfb2477bcb&MediaSourceId=b4dd2ba5e19db95beb4520d8cece3332&VideoCodec=h264&AudioCodec=mp3,aac&AudioStreamIndex=1&SubtitleStreamIndex=2&VideoBitrate=191680000&AudioBitrate=320000&MaxAudioChannels=6&Level=51&Profile=high&PlaySessionId=fa02b086cf474387b315e280a73df9e7&api_key=6ba23268a0834ac298f313638ca1bce8&CopyTimestamps=true&ForceLiveStream=false&SubtitleMethod=Encode&EnableSubtitlesInManifest=false</link>
+<thumbnail>http://img.actucine.com/wp-content/uploads/2015/10/Triple-9.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Urge 2016 HD Cam</title>
+<link>http://vidzi.tv/0rvafy55d564.html</link>
+<thumbnail>https://www.movie-list.com/img/posters/big/zoom/urge.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Wrecker 2015</title>
+<link>http://vidzi.tv/rthsdt0qsyac.html</link>
+<thumbnail>http://movieo.ir/wp-content/uploads/Wrecker-2015_wWw.Movieo.IR_.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

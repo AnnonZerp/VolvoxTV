@@ -1,0 +1,61 @@
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>National Geographic</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/?page=0</jsonrpc>
+<thumbnail>http://dotcom-media.nationalgeographic.com/static-media/homepage/images/apple-touch-icon.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<channels>
+<channel>
+<name>History Of Man</name>
+<thumbnail>https://redice.tv/a/i/n/09/7995skullgeorg_inner.jpg</thumbnail>
+<externallink>https://goo.gl/0DPsFw</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Science Documentaries</name>
+<thumbnail>http://science-documentaries.com/wp-content/uploads/2010/12/How-Science-Changed-Our-World.jpg</thumbnail>
+<externallink>https://goo.gl/TL1CqU</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Wild Life</name>
+<thumbnail>https://contestwatchers.com/wp-content/uploads/2016/02/World-Wildlife-Day-2016-Poster-Design-Contest.jpg</thumbnail>
+<externallink>https://goo.gl/Gubf9a</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Conspiracy</name>
+<thumbnail>http://seanmaclarenbooks.com/wp-content/uploads/2015/08/Conspiracy-Theory.jpg</thumbnail>
+<externallink>https://goo.gl/taIIqM</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Gang Land</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7d/Gangland_logo.jpg</thumbnail>
+<externallink>https://goo.gl/BUCL0T</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>X Files</name>
+<thumbnail>https://i.ytimg.com/vi/-gGRbftgKiw/maxresdefault.jpg</thumbnail>
+<externallink>https://goo.gl/1zrK92</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+
+</channels>

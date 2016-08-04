@@ -1,0 +1,57 @@
+<item>
+<title>[COLOR red]Hunting Channel Videos Catagory[/COLOR] </title>
+<link>http://goo.gl/t0hsfN<link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title> The new IWI X95 Rifle </title>
+<utube>CASkgMiTZDc</utube>
+<thumbnail>http://www.defensereview.com/wp-content/uploads/2016/03/Israel_Weapon_Industries_IWI_X95_Bullpup_Assault_Tactical_Rifle_Carbine_SBR_at_SHOT_Show_2016_by_David_Crane_DefenseReview.com_DR_5.jpg</thumbnail>
+<fanart>http://www.defensereview.com/wp-content/uploads/2016/03/Israel_Weapon_Industries_IWI_X95_Bullpup_Assault_Tactical_Rifle_Carbine_SBR_at_SHOT_Show_2016_by_David_Crane_DefenseReview.com_DR_5.jpg</fanart>
+</item>
+
+<item>
+<title> Knives of the Military </title>
+<utube>QOuiLljSCfI</utube>
+<thumbnail>http://images.knifecenter.com/thumb/1500x1500/knifecenter/emerson/images/EMMICROCOMMSFnw.jpg</thumbnail>
+<fanart>http://images.knifecenter.com/thumb/1500x1500/knifecenter/emerson/images/EMMICROCOMMSFnw.jpg</fanart>
+</item>
+
+<item>
+<title> HK XM8 Rifle by Tommy Built </title>
+<utube>R0enyMTjWmI</utube>
+<thumbnail>http://cs3.gtaall.com/screenshots/4dc09/2014-02/original/26f3503e9bb82f352747cc48ee9faf47d850654c/157389-GTAIV-2014-02-03-05-44-03-18.jpg</thumbnail>
+<fanart>http://cs3.gtaall.com/screenshots/4dc09/2014-02/original/26f3503e9bb82f352747cc48ee9faf47d850654c/157389-GTAIV-2014-02-03-05-44-03-18.jpg</fanart>
+</item>
+
+<item>
+<title> Midwest Ind. Red Dot Sight mount for Kel-Tec Sub2000 </title>
+<utube>J_aCdGOXVeY</utube>
+<thumbnail>https://i.ytimg.com/vi/we2M_lKSzcQ/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/we2M_lKSzcQ/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title> Century Arms C39V2 </title>
+<utube>4w3PibNhNgo</utube>
+<thumbnail>http://www.akoperatorsunionlocal4774.com/wp-content/uploads/2015/01/C39.jpg</thumbnail>
+<fanart>http://www.akoperatorsunionlocal4774.com/wp-content/uploads/2015/01/C39.jpg</fanart>
+</item>
+
+<item>
+<title> Daewoo K2 / MAX II Rifle </title>
+<utube>ZMdBnjeQIB8</utube>
+<thumbnail>http://i.imgur.com/BAc9bJ6.jpg</thumbnail>
+<fanart>http://i.imgur.com/BAc9bJ6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Hunting Channel Videos Catagory[/COLOR] </title>
+<link>http://goo.gl/t0hsfN<link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>

@@ -1,0 +1,28 @@
+<item>
+<title>[COLOR gold] [I] -----LIVE OLYMPICS RIO Aug 5th-21st 2016----- [/I] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://www.sportshdwallpapers.com/download/rio-olympics-2016-logo-on-white_1920x1200_947-wide.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<externallink>ignorme</externallink>
+</item>
+
+<item>  
+<title>NBCSN 1080P OLYMPICS RIO Aug 5th-21st 2016</title>
+<link>http://23.22.53.82/server/play/nbcsnxctg/master.m3u8</link>
+<thumbnail>http://www.sportshdwallpapers.com/download/rio-olympics-2016-logo-on-white_1920x1200_947-wide.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>USA Network HD OLYMPICS RIO Aug 5th-21st 2016</title>
+<link>http://216.31.255.235/hlsl/3/USA/USA.m3u8</link>
+<thumbnail>http://www.sportshdwallpapers.com/download/rio-olympics-2016-logo-on-white_1920x1200_947-wide.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sports Galore</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=Paktv%20sports&amp;url=sss</jsonrpc>
+<thumbnail>https://d15mj6e6qmt1na.cloudfront.net/files/images/2302/3012/SPORTS_GALORE_1400x1400.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

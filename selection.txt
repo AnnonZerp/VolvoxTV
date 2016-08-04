@@ -1,0 +1,102 @@
+<item>
+<title>CHICAGO POLICE-live audio feeds</title>
+<link>http://audio4.broadcastify.com/il_chicago_police2.mp3</link>
+<thumbnail>http://peaceloveproductions.com/blog/wp-content/uploads/2011/02/Chicago-Police-Scanner.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Brazilian Portuguese Live Channels HD and SD</title>
+<link>http://pastebin.com/raw/9FXM2H8K</link>
+<externallink>http://pastebin.com/raw/9FXM2H8K</externallink>
+<thumbnail>http://blogassets.globalizationpartners.com/media/37682/brazilian-portuguese-translation_330x277.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Urban Cinema</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC4gSiDWf7XO68mHQkdFexRw/?page=0</jsonrpc>
+<thumbnail>http://www.doncasterroversfc.co.uk/cms_images/drfc-urbancinema-header-480110-3109970_613x460.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>test</title>
+<link>ignorme</link>
+<jsonrpc>plugin:/plugin.video.goodfellas/?action=searchchannels</jsonrpc>
+<thumbnail></thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>SKY SPORT 1 HD</title>
+<sportsdevil>http://www.ibrod.tv/skysports1.html</sportsdevil>
+<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+<item>
+<title>SKY SPORT 2 HD</title>
+<sportsdevil>http://www.ibrod.tv/skysports2.html</sportsdevil>
+<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+<referer>http://streamhd.eu</referer>
+</item>
+
+<item>
+<title>SKY SPORT 3 HD</title>
+<sportsdevil>http://www.ibrod.tv/skysports3.html</sportsdevil>
+<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+<referer>http://www.ibrod.tv</referer>
+</item>
+
+<item>
+<title>SKY SPORT 4 HD</title>
+<sportsdevil>http://www.ibrod.tv/skysports4.html</sportsdevil>
+<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+<referer>http://streamhd.eu</referer>
+</item>
+
+<item>
+<title>SKY SPORT 5 HD</title>
+<sportsdevil>http://www.ibrod.tv/skysports5.html</sportsdevil>
+<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+<referer>http://streamhd.eu</referer>
+</item>
+
+<item>
+<title>SKY SPORTs F1 </title>
+<sportsdevil>http://www.crichd.tv/sky-sports-f1-live-stream.php</sportsdevil>
+<thumbnail>http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918</thumbnail>
+<referer>http://sports4u.tv/</referer>
+</item>
+
+<item> 
+<title>BT SPORT 1 HD</title>
+<sportsdevil>http://www.ibrod.tv/btsports1.html</sportsdevil>
+<referer>http://streamhd.eu</referer>
+<thumbnail>http://img01.thedrum.com/s3fs-public/drum_basic_article/101702/main_images/bt_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2 HD</title>
+<sportsdevil>http://www.ibrod.tv/btsports2.html</sportsdevil>
+<referer>http://www.ibrod.tv</referer>
+<thumbnail>http://img01.thedrum.com/s3fs-public/drum_basic_article/101702/main_images/bt_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>Criminal (2016)</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg0ODc4Mzk2OF5BMl5BanBnXkFtZTgwNDk2MDkyODE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<link>http://uptostream.com/kt2u2xuh0mh7</link>
+</item>
+
+<item>
+<title>Dirty Grandpa (2016)</title>
+<thumbnail>https://image.tmdb.org/t/p/w500/cZEx6mB5Ftnt7LvlDjTKXcrTvyg.jpg</thumbnail>
+<link>
+sublink:https://openload.co/f/Kmcgm0v4QIA#
+sublink:http://uptobox.com/c770anfwzyh3#
+sublink:http://uploadx.org/5t33a7y8th2m#
+</link>
+</item>

@@ -1,0 +1,78 @@
+<item>
+<title>Tasty</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-oxJrRZowXmA/AAAAAAAAAAI/AAAAAAAAAAA/MKEBMQPf7hU/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://az616578.vo.msecnd.net/files/2016/01/04/635874645606301476-1625704785_11811521_1617145038538139_5914585683583885935_n.jpg</fanart>
+</item>
+
+<item>
+<title>Cooking With Jack Show</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCf-k6-nJ6NzStEFdpBl03gQ/?page=0</jsonrpc>
+<thumbnail>https://i1.ytimg.com/sh/qGYSsryBrwE/showposter.jpg?v=4f984455</thumbnail>
+<fanart>https://i1.ytimg.com/sh/qGYSsryBrwE/showposter.jpg?v=4f984455</fanart>
+</item>
+
+<item>
+<title>Molto Mario</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCgxZuocwtEmPnXl4uNOG1bg/?page=0</jsonrpc>
+<thumbnail>http://images.zap2it.com/assets/p444359_n203178_cc_v4_aa/molto-mario.jpg</thumbnail>
+<fanart>http://images.zap2it.com/assets/p444359_n203178_cc_v4_aa/molto-mario.jpg</fanart>
+</item>
+
+<item>
+<title>Emeril Lagasse</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC5SJjoYO0cKJmx37WGT8amg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-9oTdy5L4bQo/AAAAAAAAAAI/AAAAAAAAAAA/iaf-Unk_sWw/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/9ry0MeGHTVw/maxresdefault.jpg</fanart>
+<item>
+
+<item>
+<title>Giada De Laurentiis</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCv9RZoaHsJLovkXWBeHd6LQ/?page=0</jsonrpc>
+<thumbnail>http://vegnews.com/web/uploads/asset/3635/file/Giada.jpg</thumbnail>
+<fanart>http://www.seededatthetable.com/wp-content/uploads/2009/03/dsc_7733.jpg</fanart>
+<item>
+
+<item>
+<title>(Accidentally) Vegan TV</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCOQln58Eaoj_Inpr5gaeF3A/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-sq3O3rS821Q/AAAAAAAAAAI/AAAAAAAAAAA/VGsJhhZjDo8/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/sHCYG-7RGZs/maxresdefault.jpg</fanart>
+<item>
+
+<title>Laura in the Kitchen</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCNbngWUqL2eqRw12yAwcICg/?page=0</jsonrpc>
+<thumbnail>http://s.sidereel.com/tv_shows/52834/giant_2x/277616_10150236566672415_253168507414_7441685_4559671_o.jpg</thumbnail>
+<fanart>http://s.sidereel.com/tv_shows/52834/giant_2x/277616_10150236566672415_253168507414_7441685_4559671_o.jpg</fanart>
+</item>
+
+<item>
+<title>Foody Tv</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCark4xoOe1w6PTRPZ9FvKDw/?page=0</jsonrpc>
+<thumbnail>http://foodytv.com/wp-content/uploads/2015/02/FOODYTV_NETWORK_LOGO.png</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>CookStream</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCUtOo8hgJsJ_ogoz6tHv--Q/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-kVXBVIDlK4M/AAAAAAAAAAI/AAAAAAAAAAA/Sk_G20nMoek/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Joy of Baking</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCFjd060Z3nTHv0UyO8M43mQ/?page=0</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/3376568236/d46c0c792bedec19cd8abe7523a00346_400x400.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/B7PWMCmlsZg/maxresdefault.jpg</fanart>
+</item>

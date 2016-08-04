@@ -1,0 +1,170 @@
+<item>
+<title>[COLOR red]--------SOME LINKS MAY GO DOWN BUT WILL RETURN WE DO NOT CONTROL THE SERVERS-------[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Cbeeies</title>
+<sportsdevil>http://www.filmon.com/channel/cbeebies</sportsdevil>
+<referer>http://www.filmon.com/</referer>
+<thumbnail>http://www.stmp.camden.sch.uk/wp-content/uploads/2015/03/CBeebies.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Tiny Pop</title>
+<sportsdevil>http://www.filmon.com/channel/tiny-pop</sportsdevil>
+<referer>http://www.filmon.com/</referer>
+<thumbnail>http://i1.wp.com/www.manchestermummy.com/wp-content/uploads/2016/02/Tinypop_logo_2011.jpg?resize=500%2C354</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Pop</title>
+<sportsdevil>http://www.filmon.com/channel/pop</sportsdevil>
+<referer>http://www.filmon.com/</referer>
+<thumbnail>http://3.bp.blogspot.com/-07o39PYZUfc/UXBPmCEY8wI/AAAAAAAACz4/xenxXEqT6Zo/s1600/pop-art-gary-grayson.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CBBC</title>
+<sportsdevil>http://www.filmon.com/channel/cbbc</sportsdevil>
+<referer>http://www.filmon.com/</referer>
+<thumbnail>http://www.wondercreative.co.uk/wp-content/uploads/2013/01/CBBC5.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Cartoon Channel</title>
+<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://thumbs.dreamstime.com/z/tv-cartoons-7310188.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>4K LooneyToons</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCRL3LmQvt3G0d5UFnLPUKNA/?page=0</jsonrpc>
+<thumbnail>http://www.dan-dare.org/FreeFun/Images/CartoonsMoviesTV/LooneyTunesWallpaper800.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Australia Plus HD</title>
+<link>http://118.97.183.222:1935/discover/aplus/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/94/Australia_Plus_logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Animated Movie Channel</title>
+<link>http://167.114.102.27/live/7nIktDaAZxLJ4FJ9_6oiEA/1470142442/7e18e745bf13ed4e73c5e612599b4cf5.m3u8</link>
+<thumbnail>http://www.toptenz.net/wp-content/uploads/2008/08/wd_movies.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Retro Toons Channel</title>
+<link>http://167.114.102.27/live/c6VSLh0_bBDXofArGVWmig/1470141547/d91af6958918af87d6a057c1cdf5b225.m3u8</link>
+<thumbnail>http://www.rotoscopers.com/wp-content/uploads/2014/09/retro-toons-dreamworks-tv.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Kids Zone</title>
+<sportsdevil>http://www.filmon.com/channel/kids-zone</sportsdevil>
+<referer>http://www.filmon.com/</referer>
+<thumbnail>http://www.cheyenneymca.org/wp-content/uploads/2012/10/KidZone.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Filmon Kids</title>
+<sportsdevil>http://www.filmon.com/channel/filmon-kids</sportsdevil>
+<referer>http://www.filmon.com/</referer>
+<thumbnail>https://lh3.ggpht.com/JgVFKnXQPiEtzq31MO8VEy_zKebaqfUHJVl6jhv1MgbRQeL6y-48th7KFDOq2_FbOpI=h900</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Wild About Animals</title>
+<sportsdevil>http://www.filmon.com/channel/wild-about-animals</sportsdevil>
+<referer>http://www.filmon.com/</referer>
+<thumbnail>http://worldnow.9and10news.com/Images/Shows/300x250/wildaboutanimals.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.221:8000/live/fr443500/75019pa/288.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>  
+<title>Nick Jr.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2332.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://readtiger.com/img/wkp/en/Nick_Jr._HD.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Channel (its down and up)</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/disneychannel.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/disneychannel.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Disney XD</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2080.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25:#
+sublink:http://mxl-iptv.cf/LIVE/H02/CANAL4860/PROFILE03.m3u8#
+</link>
+<thumbnail>http://cdnvideo.dolimg.com/cdn_assets/d2ec8de89eaa55484d46b3374d751e3df2094780.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1088.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://images6.fanpop.com/image/photos/33300000/Disney-Junior-Logo-Doc-McStuffins-Variation-disney-junior-33345290-960-540.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>http://ilv53.is.ustvnow.com/ilv53/mp4:9B9F3CARTUSTVNOW3/playlist.m3u8?key=tbd</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1811px-Cartoon_Network_HD_logo.svg.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Toonami</title>
+<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.animenation.net/blog/wp-content/uploads/2012/05/toonami.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Anime Tv</title>
+<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Aftermath</title>
+<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://dayzintel.com/wp-content/uploads/2013/09/dayz-aftermath.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

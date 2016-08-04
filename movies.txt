@@ -1,0 +1,68 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>[B]Action Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-07/8fdb74e509b7e6ae15ffd2fac3cf20c7.png</thumbnail>
+<externallink>https://goo.gl/uJdQGr</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Drama Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-07/f201f7f52c48dfb4aebc82f85c2a5c55.png</thumbnail>
+<externallink>https://goo.gl/KpWpcZ</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Scifi Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-07/dd4c6f8eab6a8312b9118decdfa503dc.png</thumbnail>
+<externallink>https://goo.gl/4y7amT</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Kids Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-07/fea6ce1bc3f96d73c530ed349a42f478.png</thumbnail>
+<externallink>https://goo.gl/KQQKhn</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Horror Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-07/94cbcaf85732e068721db618e680aa30.png</thumbnail>
+<externallink>https://goo.gl/x9BPqQ</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Comedy Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-07/568992e07f0c32cee20412913ee9fde0.png</thumbnail>
+<externallink>https://goo.gl/5IT9ke</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Kung-Fu[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-07/344e1272bdacf6c23507da8ba8364256.png</thumbnail>
+<externallink>https://goo.gl/vBzFRq</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B]Good Fellas Mob Movies[/B]</name>
+<thumbnail>http://www.pixhoster.info/f/2016-07/795bf6e0a5460f60b68eaf78ce49c24c.png</thumbnail>
+<externallink>https://goo.gl/GDX7eF</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<info></info>
+</channel>

@@ -1,0 +1,50 @@
+<item>
+<title>wilderness Cooking Outdoors 4 You</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCH-TPZLb6kqyENnsKCPnWIw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-yMEj1HyOYRI/AAAAAAAAAAI/AAAAAAAAAAA/dntFp3haTrM/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>outdoor cast iron cook</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCypDNeAAv6KwzYQ3upw3tDQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-fy6PV2oM6oA/AAAAAAAAAAI/AAAAAAAAAAA/pb2fINSk8LA/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Camp Cooking Tips With: Herb Good</title>
+<link>https://vimeo.com/135922937</link>
+<thumbnail>http://outdoorsnow.com/images/IMGCooking.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-ickzv_T0dbg/VYXfGBpu00I/AAAAAAAAOTo/tkhnAJSjgiA/s1600/Vintage-Vardos-Devon-Outdoor-Cooking.jpg</fanart>
+</item>
+
+<item>
+<title>Outdoor Cooking - Lasagna on a Dutch Oven and Open Fire - Bush Kitchen Time</title>
+<utube>MoyQt87emhg</utube>
+<thumbnail>http://p-fst1.pixstatic.com/51b1cb07fb04d6130f000931._w.540_s.fit_.JPEG</thumbnail>
+<fanart>http://3.bp.blogspot.com/-ickzv_T0dbg/VYXfGBpu00I/AAAAAAAAOTo/tkhnAJSjgiA/s1600/Vintage-Vardos-Devon-Outdoor-Cooking.jpg</fanart>
+</item>
+
+<item>
+<title>Great Chefs Great Outdoor Cooking</title>
+<link>https://vimeo.com/152749553</link>
+<thumbnail>https://i.vimeocdn.com/video/554165844_295x166.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-ickzv_T0dbg/VYXfGBpu00I/AAAAAAAAOTo/tkhnAJSjgiA/s1600/Vintage-Vardos-Devon-Outdoor-Cooking.jpg</fanart>
+</item>
+
+<item>
+<title>Cooking, Canning & Smoking Salmon With: Herb Good</title>
+<link>https://vimeo.com/135922935</link>
+<thumbnail>http://cdn.smokingmeatforums.com/4/48/350x700px-LL-48245a6d_425419_10150583000011702_706781701_8818892_833612820_n1.jpeg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-ickzv_T0dbg/VYXfGBpu00I/AAAAAAAAOTo/tkhnAJSjgiA/s1600/Vintage-Vardos-Devon-Outdoor-Cooking.jpg</fanart>
+</item>
+
+<item>
+<title>Camp Breakfast Casserole</title>
+<utube>WpegsnGjU4A</utube>
+<thumbnail>https://lh4.ggpht.com/4abiXk0e28-XR1f0waN6X2QDJfAHfUxSui-yCfmgkLsEi9lZfDFRV72jyGnaqoZ1pns=w300</thumbnail>
+<fanart>http://3.bp.blogspot.com/-ickzv_T0dbg/VYXfGBpu00I/AAAAAAAAOTo/tkhnAJSjgiA/s1600/Vintage-Vardos-Devon-Outdoor-Cooking.jpg</fanart>
+</item>

@@ -1,0 +1,38 @@
+<channels>
+<channel>
+<name>NFL/College/CFL Football</name>
+<thumbnail>http://az616578.vo.msecnd.net/files/2015/10/21/635809914576209688-328104960_NFL-College-Football.imgopt1000x70.jpg</thumbnail>
+<externallink>https://goo.gl/rRcRnv</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</channel>
+
+<channel>
+<name>UFC-WWE-Boxing</name>
+<thumbnail>https://lh3.googleusercontent.com/-KQdYqejjlS8/V6AcnuLe5pI/AAAAAAAAC2M/2beWKGuupQ0UjvJsFPp3G-dmJWOLIhDuACK8B/s512/2016-08-01.png</thumbnail>
+<externallink>https://goo.gl/JwDR2I</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</channel>
+
+<channel>
+<name>MLB Baseball</name>
+<thumbnail>http://bsndenver.com/wp-content/uploads/2014/09/1280px-Major_League_Baseball.svg_1.png</thumbnail>
+<externallink>https://goo.gl/JXrfgI</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Motor Sports</name>
+<thumbnail>http://www.formula1.com.sg/Images/MOTORSPORTS_LOGO4.JPG</thumbnail>
+<externallink>https://goo.gl/LsQlbu</externallink>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>Olympics</name>
+<thumbnail>http://www.crwflags.com/fotw/images/o/oly@ioc.gif</thumbnail>
+<externallink>https://goo.gl/bTtBj2</externallink>
+<fanart></fanart>
+</channel>
+
+
+</channels>

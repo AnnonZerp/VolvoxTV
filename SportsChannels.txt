@@ -1,0 +1,895 @@
+<item>
+<title>[COLOR red]--------SOME LINKS MAY GO DOWN BUT WILL RETURN WE DO NOT CONTROL THE SERVERS-------[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://blog.fantasysp.com/wp-content/uploads/2011/03/sports-on-tv5.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Live Events Per Sports</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://moochbar.co.uk/wp-content/uploads/2013/07/Live-Sports.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Live Sports Arena</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://www.oldinndunfermline.co.uk/wp-content/uploads/2010/04/old-inn-pub-dunfermline-live-sports.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>UKTV Sports and Entertainment</title>
+<thumbnail>https://thevpn.guru/wp-content/uploads/2014/04/uk-tv-channels-abroad-expat-overseas-itv-bbc-iplayer-unblock.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=57&amp;name=UKTVNow&amp;url=sss</jsonrpc>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>NHK World</title>
+<link>http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8</link>
+<thumbnail>http://a2.mzstatic.com/us/r1000/050/Purple/0c/bd/1f/mzl.rizmzwfe.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Versus HD</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://static4.wikia.nocookie.net/__cb20110408205404/logopedia/images/7/71/Versus_HD.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Box Nation</title>
+<sportsdevil>http://sports4u.pw/channel/box-nation-live-streaming-1</sportsdevil>
+<referer>referer=http://sports4u.pw/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fight Sports SD</title>
+<link>http://118.97.183.222:1935/discover/fight/chunklist.m3u8</link>
+<thumbnail>http://mmaworldexpo.com/wp-content/uploads/2014/07/FIGHT-SPORTS-.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>UFC HD</title>
+<link>http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-m9ixLYwcxT0/TdCgiR8-AmI/AAAAAAAAAAw/Pi3a8NiXu6c/s1600/ufc+ultimate+fighting+championship+logo+wallpaper+background.jpg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<item>
+
+<item>
+<title>WWE Network HD</title>
+<sportsdevil>http://hdfree.tv/wwe-network-live-stream.html</sportsdevil>
+<referer>referer=http://hdfree.tv/</referer>
+<thumbnail>http://insufficientscotty.com/wp-content/uploads/2014/08/WWE-Network-Logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>WWE Network SD</title>
+<sportsdevil>http://crichd.tv/update/wwe.php?width=700&height=480</sportsdevil>
+<referer>referer=http://crichd.tv/</referer>
+<thumbnail>http://insufficientscotty.com/wp-content/uploads/2014/08/WWE-Network-Logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>WWE YOUTUBE</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCJ5v_MCY6GNUBTO8-D3XoAg/?page=0</jsonrpc>
+<thumbnail>http://www.sportshdwallpapers.com/download/wrestling-wwe-logo_1920x1080_378-hd.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>NFL Now HD</title>
+<link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/NFL_NOW_vert_RGB.jpg/revision/latest?cb=20150803005238</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gray]NBC Golf 1080p[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i.imgur.com/lITra19.jpg</thumbnail>
+<fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
+</item>
+
+<item>  
+<title>NBCSN 1080P</title>
+<link>http://23.22.53.82/server/play/nbcsnxctg/master.m3u8</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140329165300/logopedia/images/3/32/NBCSN_HD_logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>NBCSN HD OLYMPICS RIO Aug 5th-21st 2016</title>
+<sportsdevil>http://wizhdsports.to/live/stream24.php</sportsdevil>
+<referer>referer=http://wizhdsports.to/</referer>
+<thumbnail>http://www.sportshdwallpapers.com/download/rio-olympics-2016-logo-on-white_1920x1200_947-wide.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>ESPN HD</title>
+<link>http://80.80.160.168/live/6/live.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-V1IWmbLUziE/ULjsizBZh_I/AAAAAAAAKds/8Wdf5tR0V08/s1600/Logo+ESPN+HD.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>ESPN SD</title>
+<sportsdevil>http://www.time4tv.com/2011/09/espn_04.php</sportsdevil>
+<referer>referer=http://www.time4tv.com/</referer>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/07/espn-logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>ESPN USA</title>
+<sportsdevil>http://hdfree.tv/live/espn.php</sportsdevil>
+<referer>referer=http://hdfree.tv/live/espn.php</referer>
+<thumbnail>http://i1.wp.com/www.multiplayertv.org/wp-content/uploads/2015/02/espn-usa.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>ESPN 2 SD</title>
+<sportsdevil>http://www.time4tv.com/2011/09/espn-2.php</sportsdevil>
+<referer>referer=http://www.time4tv.com/</referer>
+<thumbnail>http://4.bp.blogspot.com/-ImMf-Sd4-W8/TxnUY1rLRKI/AAAAAAAACpg/QiCGOZPqbNs/s1600/espn2logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 1 HD (may go down but will return)</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-NP7kbqc1a2Q/UW1wjZ0y5rI/AAAAAAAAAVk/WHLkFBAhsZU/s1600/ivIPy8fZekp1X.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 SD</title>
+<sportsdevil>http://www.googlitv.com/fox-sports-live-streaming.php</sportsdevil>
+<referer>http://www.googlitv.com/fox-sports-live-streaming.php</referer>
+<thumbnail>http://a.fssta.com/content/dam/fsdigital/fscom/Buzzer/Images/2014/02/01/020114-13-FS1-FOX-SPORTS-1-LOGO-OB-PI.vresize.1200.675.high.18.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>FOX Sports 1 SD</title>
+<sportsdevil>http://www.stream2watch.co/streams/52470/2</sportsdevil>
+<referer>http://www.stream2watch.co/</referer>
+<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.54.54:8000/live/cmu.edit@gmail.com/7eU1xWh5y2/880.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://bellator.mtvnimages.com/images/shows/bellator/site-images/B159_1920x1080_site.jpg?quality=0.85&width=786&height=442&crop=true</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 2 SD</title>
+<sportsdevil>http://www.googlitv.com/Fox-Soccer-live-streaming.php</sportsdevil>
+<referer>http://www.googlitv.com/Fox-Soccer-live-streaming.php</referer>
+<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 506 Australia link 1</title>
+<link>http://162.248.6.122:8080</link>
+<thumbnail>http://ittfoceania.com/wp-content/uploads/2013/01/FoxSports.gif</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS 506 AUSTRALIA link 2</title>
+<link>http://motorsport.hopto.org:8080/</link>
+<thumbnail>http://ittfoceania.com/wp-content/uploads/2013/01/FoxSports.gif</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS AU 4 HD</title>
+<link>http://162.248.6.122:8084</link>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/fox-sports-4-colour.png</thumbnail>
+<fanart>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/fox-sports-4-colour.png</fanart>
+</item>
+
+<item>
+<title>BT Sport Europe</title>
+<link>http://149.202.85.84:8080/btSpEUrope-94506afdjklfg/local/index.m3u8</link>
+<thumbnail>http://www.arsenal.com/assets/_files/scaled/711x400/jun_15/gun__1433860323_BTSportEurope711.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport ESPN HD</title>
+<link>http://149.202.85.84:8080/btEspn-94506afdjklfg/local/index.m3u8</link>
+<thumbnail>http://sport-onthebox.com/wp-content/uploads/2015/01/BT-ESPN.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>  
+<title>[COLOR gold]BT Sport 1 UK HD[/COLOR]</title>
+<link>http://149.202.207.8:8080/beETy-1/counter1/index.m3u8</link>
+<thumbnail>http://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 1 Live UK HD (link 2)</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvx.starynos.com:8000/live/tvstarcccam.com/lOPuMApVt2/222.ts</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/7/75/BTSport1HD.png/revision/latest?cb=20130806171255</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 1 Live SD</title>
+<sportsdevil>http://www.ibrod.tv/btsports1.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>BT Sport 1 Live SD (link 2)</title>
+<sportsdevil>http://crichd.tv/bt-sport-1-live-stream.php</sportsdevil>
+<referer>http://crichd.tv/</referer>
+<thumbnail>http://www.magnet.ie/wp-content/uploads/2011/12/BTSport1HD_RGB.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 1 SD link 3</title>
+<sportsdevil>http://www.time4tv.com/2013/08/bt-sport-1.php</sportsdevil>
+<referer>referer=http://www.time4tv.com/</referer>
+<thumbnail>http://www.zoptv.com/assets/logo/bt-sport-1.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 SD</title>
+<link>http://130.185.144.63:8081/sports/bt2/playlist.m3u8</link>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 SD link 2</title>
+<sportsdevil>http://www.ibrod.tv/btsports2.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>BT Sport 2 SD link 3</title>
+<sportsdevil>http://crichd.tv/bt-sport-2-live-stream.php</sportsdevil>
+<referer>http://crichd.tv/</referer>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 2 SD link 4</title>
+<sportsdevil>http://live.shwidget.com/static/freeplay/3872451659377560.html</sportsdevil>
+<referer>referer=http://live.shwidget.com/</referer>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 SD link 5</title>
+<sportsdevil>http://www.time4tv.com/2016/04/bt-sport-2.php</sportsdevil>
+<referer>referer=http://www.time4tv.com/</referer>
+<thumbnail>https://www.magnet.ie/wp-content/uploads/2011/12/BTSport2_CMYK.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title><item>
+<title>Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.102.248:8000/live/phill/phill/328.ts</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/1/1f/Skysports1-1997.jpg/revision/latest?cb=20120327075607</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Sky Sport 1 HD link 2</title>
+<link>http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8</link>
+<thumbnail>http://behindthegloves.com/wp-content/uploads/2015/02/sky-sports-project-southampton.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Sky Sport 1 HD link 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/548.ts&amp;streamtype=TSDOWNLOADER&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://behindthegloves.com/wp-content/uploads/2015/02/sky-sports-project-southampton.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>SKY SPORTS 1 SD</title>
+<sportsdevil>http://www.ibrod.tv/skysports1.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://behindthegloves.com/wp-content/uploads/2015/02/sky-sports-project-southampton.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+ 
+<item>
+<title>SKY SPORTS 1 SD (link 2)</title>
+<sportsdevil>http://www.crichd.tv/live-sky-sports-1-uk-stream.php</sportsdevil>
+<referer>http://www.crichd.tv/</referer>
+<thumbnail>http://behindthegloves.com/wp-content/uploads/2015/02/sky-sports-project-southampton.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 1 SD (link 3)</title>
+<sportsdevil>http://www.idimsports.eu/watch/445132/1/watch-anthony-joshua-vs-dominic-breazeale.html</sportsdevil>
+<referer>http://www.idimsports.eu/</referer>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/b/be/Sky_Sport_1_HD_Italy_2010.png/revision/latest?cb=20150524202947</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sport 1 SD (link 4)</title>
+<sportsdevil>http://www.googlitv.com/Super-Sports-HD-1-live-streaming11.php</sportsdevil>
+<referer>http://www.googlitv.com/Super-Sports-HD-1-live-streaming11.php</referer>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/b/be/Sky_Sport_1_HD_Italy_2010.png/revision/latest?cb=20150524202947</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 2 HD</title>
+<link>http://149.202.85.84:8080/syjkiy-2/counter1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_de_sport_02_hd.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+ 
+<item>
+<title>SKY SPORTS 2 SD</title>
+<sportsdevil>http://www.ibrod.tv/skysports2.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_hd2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>SKY SPORTS 2 SD (link 2)</title>
+<sportsdevil>http://www.crichd.tv/live-sky-sports-2-uk-stream.php</sportsdevil>
+<referer>http://www.crichd.tv/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_hd2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title><item>
+<title>Sky Sport 2 SD (link 3)</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.102.248:8000/live/phill/phill/327.ts</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/a/a5/Skysports2-1997.jpg/revision/latest?cb=20120327154619</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Sky Sports 2 SD (link 4)</title>
+<sportsdevil>http://www.googlitv.com/Super-Sports-HD-2-live-streaming.php</sportsdevil>
+<referer>http://www.googlitv.com/Super-Sports-HD-2-live-streaming.php</referer>
+<thumbnail>http://4.bp.blogspot.com/-nIM_Jms1VrQ/VAW7n2UL_CI/AAAAAAAAFVQ/BFORITLxMfc/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sport 3 HD</title>
+<link>http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-5EfhYGdrwdY/UgtWm9v1MGI/AAAAAAAABC0/nOsc3nGpM28/s1600/sky+sports+3+hd+logo+embed+code.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Sky Sports 3 SD</title>
+<link>http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20111102191832/logopedia/images/f/f7/Sky_Sports_HD_(3).png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title><item>
+<title>Sky Sport 3 SD (link 2)</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.102.248:8000/live/phill/phill/326.ts</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Skysports3-1997.jpg/revision/latest?cb=20120327154652</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>SKY SPORTS 3 SD (link 3)</title>
+<sportsdevil>http://www.crichd.tv/live-sky-sports-3-uk-stream.php</sportsdevil>
+<referer>http://www.crichd.tv/</referer>
+<thumbnail>http://4.bp.blogspot.com/-_sBhFRwf10U/UJLQexsdICI/AAAAAAAAJ_I/v4pmePm6_9Y/s400/Sky+Sport+3+live+stream+online+%D8%B3%D9%83%D8%A7%D9%89+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4 HD</title>
+<sportsdevil>http://www.ibrod.tv/skysports4.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png</thumbnail>
+</item>
+
+<item>
+<title><item>
+<title>Sky Sport 4 HD (link 2)</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.102.248:8000/live/phill/phill/351.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_hd4.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Sky Sport 4 HD (link 3)</title>
+<link>http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8</link>
+<thumbnail>http://sahiban.webs.com/Bakhadadi%20sky_sports4.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Sky Sports 4 SD 576</title>
+<link>http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8</link>
+<thumbnail>http://i2.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+ 
+<item>
+<title>SKY SPORTS 4 SD (link 2)</title>
+<sportsdevil>http://www.crichd.tv/sky-sports-4-live-stream-ukhd.php</sportsdevil>
+<referer>http://www.crichd.tv/</referer>
+<thumbnail>http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png</thumbnail>
+</item>
+
+<item>
+<title><item>
+<title>Sky Sport 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.102.248:8000/live/phill/phill/352.ts</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/sports_5hd.png_138638374.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Sky Sport 5 HD link 2</title>
+<link>http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8</link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/sports_5hd.png_138638374.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>SKY SPORT 5 SD</title>
+<sportsdevil>http://www.ibrod.tv/skysports5.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 SD 576 (link 2)</title>
+<link>http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+ 
+<item>
+<title>SKY SPORTS 5 SD (link3)</title>
+<sportsdevil>http://www.crichd.tv/sky-sports-5-live-stream-ukhd.php</sportsdevil>
+<referer>http://www.crichd.tv/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS F1 HD</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsf1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysportsf1.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport F1 HD link 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/397.ts</link>
+<thumbnail>http://img.skysports.com/11/11/660x350/f1panel1_2682703.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>SKY SPORTS F1 SD</title>
+<sportsdevil>http://www.crichd.tv/sky-sports-f1-live-stream-ukhd.php</sportsdevil>
+<referer>http://www.crichd.tv/</referer>
+<thumbnail>http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News HQ</title>
+<link>http://osltv.zackapps.com/apps/best_app/sky.php?id=news&type=.m3u8</link>
+<thumbnail>http://tvnewsroom.site/wp-content/uploads/2014/08/Sky-Sports-News-HQ-2014-Presentation-23.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]STAR SPORTS 1[/COLOR]</title>
+<link>http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-tdBideZ2cyU/Usz07onekbI/AAAAAAAAARc/hsrIX8PqEjk/s1600/Star-Sports-1-Live-Streaming-Online-Free.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]STAR SPORTS 2[/COLOR]</title>
+<link>http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/star_sports_cn_2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]STAR SPORTS 4[/COLOR]</title>
+<link>http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-PA5z5ihw-no/U8TnvFWRV7I/AAAAAAAAA8w/gxAVBs1mb3c/s1600/STAR_Sports_4_logo-WorldTVTube.Blogspot.com.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]SUPER TENNIS HD[/COLOR]</title>
+<link>http://bit.do/b2tWA</link>
+<thumbnail>http://www.lanta-net.ru/media/img/tv/channels/logo/SuperTennis_HD.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]SUPERSPORT 2[/COLOR]</title>
+<link>http://81.7.13.162/hls/ss2/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/supersport2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]SUPERSPORT 3[/COLOR]</title>
+<link>http://81.7.13.162/hls/ss3/index.m3u8</link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20111012224908/logopedia/images/2/2b/SuperSport_HD_3.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]SUPERSPORT 3 link 2[/COLOR]</title>
+<link>http://149.202.85.84:8080/se00pEyrr-3/counter1/index.m3u8</link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20111012224908/logopedia/images/2/2b/SuperSport_HD_3.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]SUPERSPORT NEWS[/COLOR]</title>
+<link>http://81.7.13.162/hls/ss1/index.m3u8</link>
+<thumbnail>http://cdn.ghanasoccernet.com/2014/05/SuperSport-logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]TEN 1[/COLOR]</title>
+<link>http://149.202.85.84:8080/teienees-sp/counter2/index.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-k_9PXSa1V3s/UaUP8b5EJqI/AAAAAAAAAfY/b6nWdivNxkw/s1600/TEN+HD+TV+Channel+Live+Streaming+Online.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]TEN CRICKET[/COLOR]</title>
+<link>http://149.202.85.84:8080/teein-cri/counter1/index.m3u8</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20110926151853/logopedia/images/7/74/TEN_Cricket.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]TRUE SPORT 2[/COLOR]</title>
+<link>rtmp://216.185.103.158/live2/chthaipremier31</link>
+<thumbnail>http://tv-online.in/wp-content/uploads/2012/12/True-Sport-2-TV.jpeg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]ARENA SPORT 1[/COLOR]</title>
+<link>http://149.202.85.84:8080/airoona-1/counter1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/arena_sport_sk_1_hd.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]ARENA SPORT 2[/COLOR]</title>
+<link>http://149.202.85.84:8080/airoona-2/counter1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/arena_sport_sk_2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]ARENA SPORT 3[/COLOR]</title>
+<link>http://149.202.85.84:8080/airoona-3/counter1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/arena_sport_rs_3.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]ARENA SPORT 4[/COLOR]</title>
+<link>http://149.202.85.84:8080/airoona-4/counter1/index.m3u8</link>
+<thumbnail>http://tvprofil.net/img/kanali-logo/arenasport_4_logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>[COLOR gold]ARENA SPORT 5[/COLOR]</title>
+<link>http://149.202.85.84:8080/airoona-5/counter1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arenasport5_rs.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>CTH Stadium 6</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1690.ts</link>
+<thumbnail>http://www.indostreamix.com/wp-content/uploads/2015/05/stadium6.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CTH Stadium 5</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1689.ts</link>
+<thumbnail>http://1.bp.blogspot.com/-kE0hjgrZvw4/VFN7AhcPzxI/AAAAAAAAANw/prTiG27vLfk/s1600/Stadium5.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CTH Stadium 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1688.ts</link>
+<thumbnail>http://1.bp.blogspot.com/-FmsCUKPwnt0/VFN6ahmPJJI/AAAAAAAAANo/4C8ZUdkhj54/s1600/Stadium4.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CTH Stadium 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1687.ts</link>
+<thumbnail>http://cthbpl.com/img/stadium/stadium3.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CTH Stadium 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1686.ts</link>
+<thumbnail>http://cq.lnwfile.com/_/cq/_raw/ng/0f/nh.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CTH Stadium</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/rifat1/rifat2/1685.ts</link>
+<thumbnail>http://iptvking.com/wp-content/uploads/2014/08/Stadium1.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sport Time TV 1</title>
+<link>http://83.77.46.37:8000/play/a05b</link>
+<thumbnail>http://okteve.com/wp-content/uploads/media/4c5d212986964f0eb35c005529550f21.jpeg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sport Time TV 2</title>
+<link>http://83.77.46.37:8000/play/a05g</link>
+<thumbnail>http://okteve.com/wp-content/uploads/media/4c5d212986964f0eb35c005529550f21.jpeg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sport Time TV 3</title>
+<link>http://83.77.46.37:8000/play/a05m</link>
+<thumbnail>http://okteve.com/wp-content/uploads/media/4c5d212986964f0eb35c005529550f21.jpeg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sport Time TV 4</title>
+<link>http://83.77.46.37:8000/play/a054</link>
+<thumbnail>http://okteve.com/wp-content/uploads/media/4c5d212986964f0eb35c005529550f21.jpeg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Eurosport 1 SD</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
+<thumbnail>http://www.totaaltv.nl/images/eurosport-1-en-2-ook-bij-kabelnoord-in-hd.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Eurosport 1 SD (LINK 2)</title>
+<sportsdevil>http://www.ibrod.tv/eurosports1.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://3.bp.blogspot.com/-o0UwGgPnQVU/VllLHBRSg_I/AAAAAAAAbGY/Q35NhUNCXnA/s1600/630x432-eurosport1HD.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Eurosport 1 SD (link3)</title>
+<link>rtmp://$doregex[get-ip]/live playPath=euros1?id=86582&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/euros1/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/euros1/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png</thumbnail>
+</item>
+
+<item>
+<title>EuroSport 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bb1.sendevric.com:8000/live/marksat64/DMzjwa0FSe/171.ts</link>
+<thumbnail>http://www.worldsnooker.com/wp-content/uploads/2015/12/ESP_CLT_2HD_NVY_RED_RGB.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>EuroSport 2 SD (link 2)</title>
+<link>http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8</link>
+<thumbnail>http://www.worldsnooker.com/wp-content/uploads/2015/12/ESP_CLT_2HD_NVY_RED_RGB.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>EuroSport 2 SD (link 3)</title>
+<sportsdevil>http://laliga-live.xyz/stream6.php</sportsdevil>
+<referer>http://laliga-live.xyz/</referer>
+<thumbnail>http://www.worldsnooker.com/wp-content/uploads/2015/12/ESP_CLT_2HD_NVY_RED_RGB.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>PREMIER SPORTS</title>
+<sportsdevil>http://www.ibrod.tv/premier.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://officialtvstream.net/wp-content/uploads/2015/02/Premier-Sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Premier League[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>https://github.com/tdbnz/Community-Playlists/raw/master/Premier%20league</externallink>
+<fanart>http://masbradwall.com/wp-content/uploads/2016/03/Premier-League-Logo-Wallpaper-el5T8.jpg</fanart>
+<thumbnail>http://soccerlens.com/files/2014/07/premier-league.jpg</thumbnail>
+</item>
+
+<item>
+<title>IPTV Sports HD Rus-ukraine-Hung</title>
+<link>http://ignorame</link>
+<thumbnail>https://telecomdeutschland.files.wordpress.com/2011/04/iptv_logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<externallink>https://github.com/tdbnz/Community-Playlists/raw/master/freeiptvlinks4u.com/menu/menu</externallink>
+</item>
+
+<item>
+<title>Pac 12 Network National HD</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8</link>
+<thumbnail>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Pac 12 Washington HD</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8</link>
+<thumbnail>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Pac 12 Network Los Angeles HD</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8</link>
+<thumbnail>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</thumbnail>
+<fanart>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</fanart>
+</item>
+
+<item>
+<title>Pac 12 Network Arizona HD</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8</link>
+<thumbnail>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Pac 12 Network Oregon HD</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8</link>
+<thumbnail>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</thumbnail>
+<fanart>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</fanart>
+</item>
+
+<item>
+<title>Pac 12 Network Bay Area HD</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8</link>
+<thumbnail>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</thumbnail>
+<fanart>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</fanart>
+</item>
+
+<item>
+<title>Pac 12 Network Moutain HD</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8</link>
+<thumbnail>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</thumbnail>
+<fanart>http://hd-report.com/wp-content/uploads/2013/09/pac-12-logo-shield.jpg</fanart>
+</item>
+
+<item>
+<title>Poker Central HD</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8</link>
+<thumbnail>http://media.cardplayer.com/assets/000/016/219/poker_central.jpg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/pokercentral.jpg</fanart>
+<item>
+
+<item>
+<title>Fight Sports</title>
+<link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
+<thumbnail>http://theboyz.comli.com/goodfellas/icons/fightsport.png</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/fightsport.jpg</fanart>
+<item>
+
+<item>
+<title>Motorsport 7 Channel Australia</title>
+<link>http://motorsport.hopto.org:8080/</link>
+<thumbnail>http://theboyz.comli.com/goodfellas/icons/motorsports.png</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/motorsports.jpg</fanart>
+<item>
+
+<item>
+<title>AutoSport TV</title>
+<link>mms://100automoto.tv/100livesport</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/3/33/2009a.jpg/revision/latest?cb=20110929202511</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>Porsche Channel</title>
+<link>mms://100automoto.tv/channel_porsche</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Tans.png/revision/latest?cb=20151104225830</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>channel 7 AUSTRALIA</title>
+<link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224813/MEL1/master.m3u8?|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>https://c1.staticflickr.com/5/4038/4431343274_b47a660166.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>channel 9 AUSTRALIA</title>
+<link>https://9nowlivehls-i.akamaihd.net/hls/live/226645/ch9perprd/master1800.m3u8?|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://www.leapwebsite.com.au/Sites/2421/Images/ch9.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>AT THE RACES</title>
+<sportsdevil>http://cricfree.tv/at-the-races-live-stream</sportsdevil>
+<referer>http://cricfree.tv/</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/at_the_races_ie.png</thumbnail>
+</item>
+
+<item>
+<title>racing.com</title>
+<link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224825/MISC1/master.m3u8?|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://toddmalhoit.com/wp-content/uploads/2013/01/logo-horseracingfanshop.jpg</thumbnail>
+</item>

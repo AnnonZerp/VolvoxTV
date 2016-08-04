@@ -1,0 +1,392 @@
+<item>
+<title>Wicked Tuna Latest Episodes</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCqzevw9YO4ouRxdRpRXoOLg/?page=0</jsonrpc>
+<thumbnail>https://directvnews.files.wordpress.com/2014/02/lg__wicked_tuna_v2.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Pursuit Channel HD</title>
+<sportsdevil>http://www.filmon.com/channel/pursuit-channel</sportsdevil>
+<referer>referer=http://www.filmon.com/</referer>
+<thumbnail>http://1.bp.blogspot.com/-ixMR9j6O4AY/U67pGTeno2I/AAAAAAAACzg/m68-udvvyuM/s1600/Pursuit+Channel+Icon.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>In Depth Outdoors TV</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC3_D8PdKxi3QxIwJxMqmRvg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-Jile8gsXb-k/AAAAAAAAAAI/AAAAAAAAAAA/YHhIKdos2FM/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Addictive Fishing TV</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCq0lLWU77ZPGbbmIIxW5mdw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-GVYwA_JBBFg/AAAAAAAAAAI/AAAAAAAAAAA/P3WyjL4FlNU/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Keyes Outdoors TV</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCIuLyEFbgQAHogfpS9mbUjQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-xTuNs1dxWZU/AAAAAAAAAAI/AAAAAAAAAAA/wAk0wGvSnf0/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Uncut Angling TV</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCq0lLWU77ZPGbbmIIxW5mdw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-8Rt7LjDZrtU/AAAAAAAAAAI/AAAAAAAAAAA/-0-9PLOJWXM/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Davie McPhail Fly Tying</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC16NCfnoaG7rm60e9pl89fw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-wuz1jhrIIws/AAAAAAAAAAI/AAAAAAAAAAA/vtu7NhxSo4M/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>In The Riffle Fly Tying</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC0gE6I-ipn32oawn5lMrIsg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-JWMF9ztcXAE/AAAAAAAAAAI/AAAAAAAAAAA/pEI_6GvjZbo/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Pro vs Joe Presented by Realtree: Alligator Patrick Priesmeyer</title>
+<link>https://vimeo.com/152101185</link>
+<thumbnail>http://www.brentchapmanfishing.com/wp-content/uploads/2015/03/ProvsJoe.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Home vs Home (Bass Fishing)</title>
+<link>https://vimeo.com/150976062</link>
+<thumbnail>http://www.brentchapmanfishing.com/wp-content/uploads/2015/03/ProvsJoe.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Breaking the Law (Bass Fishing)</title>
+<link>https://vimeo.com/150215902</link>
+<thumbnail>http://www.brentchapmanfishing.com/wp-content/uploads/2015/03/ProvsJoe.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Where It All Began (Bass Fishing)</title>
+<link>https://vimeo.com/148970395</link>
+<thumbnail>http://www.brentchapmanfishing.com/wp-content/uploads/2015/03/ProvsJoe.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Caddo Lake (Bass Fishing)</title>
+<link>https://vimeo.com/147560321</link>
+<thumbnail>http://www.brentchapmanfishing.com/wp-content/uploads/2015/03/ProvsJoe.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Monday Morning Fisherman (Bass Fishing)</title>
+<link>https://vimeo.com/147373962</link>
+<thumbnail>http://www.brentchapmanfishing.com/wp-content/uploads/2015/03/ProvsJoe.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Finger Lakes Showdown (Bass Fishing)</title>
+<link>https://vimeo.com/146416256</link>
+<thumbnail>http://www.brentchapmanfishing.com/wp-content/uploads/2015/03/ProvsJoe.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Live Oak Plantation/Grandpa’s Backyard (Bass Fishing)</title>
+<link>https://vimeo.com/146363444</link>
+<thumbnail>http://i.vimeocdn.com/video/544751544_1280x720.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Rod’s Honey Hole (Bass Fishing)</title>
+<link>https://vimeo.com/145586507</link>
+<thumbnail>https://i.ytimg.com/vi/WHKiRvx2SWg/mqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Gibson County Lake (Bass Fishing)</title>
+<link>https://vimeo.com/145550136</link>
+<thumbnail>https://i.ytimg.com/vi/WHKiRvx2SWg/mqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Brent Chapman’s Pro vs Joe presented by Realtree: Lake Onondaga (Bass Fishing)</title>
+<link>https://vimeo.com/144808392</link>
+<thumbnail>https://i.ytimg.com/vi/WHKiRvx2SWg/mqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/viccXXKJRpI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>A 200 lb giant tarpon in Florida - Fishing Adventurer</title>
+<utube>FCFLwnlzedk</utube>
+<thumbnail>https://i.ytimg.com/vi/FCFLwnlzedk/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Tigerfish, giant trevally, dogtooth tuna in Tanzania - Fishing Adventure</title>
+<utube>QaLfYJKyUCU</utube>
+<thumbnail>https://i.ytimg.com/vi/QaLfYJKyUCU/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Striped marlin in Baja, California - Fishing Adventurer</title>
+<utube>qtPf75IFgpw</utube>
+<thumbnail>https://i.ytimg.com/vi/qtPf75IFgpw/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Tigerfish, giant trevally, dogtooth tuna in Tanzania - Fishing Adventure</title>
+<utube>QaLfYJKyUCU</utube>
+<thumbnail>https://i.ytimg.com/vi/ondZmbvdySs/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>New York city fishing: striped bass, shark and bluefish - Fishing Adventurer</title>
+<utube>sditqTUYWsw</utube>
+<thumbnail>https://i.ytimg.com/vi/sditqTUYWsw/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Cubera, tuna and skip jack in Costa, Rica - Fishing Adventurer</title>
+<utube>EPLTmKSsGek</utube>
+<thumbnail>https://i.ytimg.com/vi/EPLTmKSsGek/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Grouper and Big Tarpon in Puerto Rico</title>
+<utube>LlzidA9K3X0</utube>
+<thumbnail>https://i.ytimg.com/vi/LlzidA9K3X0/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Sailfish on Fly and Kingfish</title>
+<utube>lWqJLt37Gbk</utube>
+<thumbnail>https://i.ytimg.com/vi/lWqJLt37Gbk/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Nile Perch in Egypt</title>
+<utube>uqSTz8PnI5M</utube>
+<thumbnail>https://i.ytimg.com/vi/uqSTz8PnI5M/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Big Northern Pike in Rupert River</title>
+<utube>XMuQdHy1uts</utube>
+<thumbnail>https://i.ytimg.com/vi/XMuQdHy1uts/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Pike and Brown Trout in Sweden</title>
+<utube>y2gc3h3zXOI</utube>
+<thumbnail>https://i.ytimg.com/vi/y2gc3h3zXOI/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Shark,Snook,Tuna, and Bonefish in Belize</title>
+<utube>KG1XCa96BiI</utube>
+<thumbnail>https://i.ytimg.com/vi/KG1XCa96BiI/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Monster Yellowfin Tuna</title>
+<utube>7X7bLKsAeGo</utube>
+<thumbnail>https://i.ytimg.com/vi/7X7bLKsAeGo/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Catching Giants</title>
+<utube>qOFXAg6Df7E</utube>
+<thumbnail>https://i.ytimg.com/vi/qOFXAg6Df7E/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Tuna Cowboys</title>
+<utube>V4kEiBKWDys</utube>
+<thumbnail>https://i.ytimg.com/vi/V4kEiBKWDys/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Fishing Adventures in Malaysia</title>
+<utube>YaudK1-xUBA</utube>
+<thumbnail>https://i.ytimg.com/vi/YaudK1-xUBA/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Peru</title>
+<utube>UvNtvEZfirM</utube>
+<thumbnail>https://i.ytimg.com/vi/UvNtvEZfirM/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Peru</title>
+<utube>UvNtvEZfirM</utube>
+<thumbnail>https://i.ytimg.com/vi/UvNtvEZfirM/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Bolivia</title>
+<utube>4h8pFfg4VGU</utube>
+<thumbnail>https://i.ytimg.com/vi/4h8pFfg4VGU/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Madagascar</title>
+<utube>ysj4s-nceW0</utube>
+<thumbnail>https://i.ytimg.com/vi/ysj4s-nceW0/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Queensland Australia</title>
+<utube>I66ODC3IGM4</utube>
+<thumbnail>https://i.ytimg.com/vi/I66ODC3IGM4/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Solomon Islands</title>
+<utube>YhjoDTFKGPY</utube>
+<thumbnail>https://i.ytimg.com/vi/YhjoDTFKGPY/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Venezuela</title>
+<utube>FeLPCPZINcA</utube>
+<thumbnail>https://i.ytimg.com/vi/FeLPCPZINcA/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Okinawa</title>
+<utube>cH4ayuW6hvc</utube>
+<thumbnail>https://i.ytimg.com/vi/cH4ayuW6hvc/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Mongolia</title>
+<utube>8_GeAkByUPs</utube>
+<thumbnail>https://i.ytimg.com/vi/8_GeAkByUPs/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Guatemala</title>
+<utube>Ssb4-n7BN2M</utube>
+<thumbnail>https://i.ytimg.com/vi/Ssb4-n7BN2M/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Brazil</title>
+<utube>YASzQcg8vY4</utube>
+<thumbnail>https://i.ytimg.com/vi/YASzQcg8vY4/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Borneo</title>
+<utube>izaWTpL2peY</utube>
+<thumbnail>https://i.ytimg.com/vi/izaWTpL2peY/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Eastern Canada</title>
+<utube>VOxsMtEwpJM</utube>
+<thumbnail>https://i.ytimg.com/vi/VOxsMtEwpJM/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Tanzania</title>
+<utube>bNmWbC2t-Xc</utube>
+<thumbnail>https://i.ytimg.com/vi/bNmWbC2t-Xc/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge United Arib Emirates and Oman</title>
+<utube>XpeeqyOuZsk</utube>
+<thumbnail>https://i.ytimg.com/vi/XpeeqyOuZsk/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Robsons Extreme Fishing Challenge Zimbabwe</title>
+<utube>bRDhDOnOowo</utube>
+<thumbnail>https://i.ytimg.com/vi/bRDhDOnOowo/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Extreme Fishing with Robson Green</title>
+<utube>rDutRneh1N0</utube>
+<thumbnail>https://i.ytimg.com/vi/rDutRneh1N0/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Extreme Fishing with Robson Green In California</title>
+<utube>cwuqgqzpNQ4</utube>
+<thumbnail>https://i.ytimg.com/vi/rDutRneh1N0/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Stray Cat Offshore Fishing Bermuda</title>
+<utube>Qxxn5Kspwcc</utube>
+<thumbnail>https://i.ytimg.com/vi/Qxxn5Kspwcc/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>BIG FISH</title>
+<utube>xN3A0rLam6U</utube>
+<thumbnail>https://i.ytimg.com/vi/Qxxn5Kspwcc/hqdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>

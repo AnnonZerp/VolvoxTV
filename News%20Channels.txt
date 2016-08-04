@@ -1,0 +1,361 @@
+<item>
+<title>[COLOR red]--------SOME LINKS MAY GO DOWN BUT WILL RETURN WE DO NOT CONTROL THE SERVERS-------[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]--- Indianapolis Indiana Local News Channels---[/COLOR]</title>
+<link>ignorme</link>
+<thumbnail>https://dishlocalchannelprograms.files.wordpress.com/2014/12/local_channels.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CBS WTTV 4 Local Indianapolis-Indiana</title>
+<sportsdevil>http://livestream.com/accounts/10913440/events/3581787/player?width=770&height=440&autoPlay=true&mute=false</sportsdevil>
+<referer>referer=http://livestream.com/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/cf/WTTV_Logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>ABC WRTV 6 Local-Indianapolis-IN Indiana</title>
+<link>http://stswrtvstr01-i.akamaihd.net/hls/live/203191/anvato/master.m3u8?anv_user=7fe777f5a5829e118568c9adaa88703620082&fw_ltlg=&fw_sdk_flag=%2Bslcb%2Bvicb&fw_metr=7&_dev=web&fw_sdk_flag_safe=%252Bslcb%252Bvicb&_tkx_anvack=anvato_mcp_sps_web_prod_54bdc90dd6ba21710e9f7074338365bba28da336&_tkx_callsign=c100008&anvauth=tb=0~te=1465851700~sgn=02a6cd4aae37079222015783ff67d1e6c85913e91a2058393ec26d2dab6cb765&t=1465851610&X-Anvato-Adst-Auth=MwGwP+oNBt57K2kENgG9pQoVL3JDzU1fcOMB/iGhJPJNLjMDaQvyJUw5UiH1lo4C</link>
+<thumbnail>http://escrippsnews.scrippsnet.com/sites/escrippsnews.scrippsnet.com/files/styles/medium/public/field/image/RTV_Indy%202012.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>WRTV 6 Newsy Local-Indianapolis-IN Indiana</title>
+<link>http://play-prod1.live.anvato.net/server/play/sps-wrtv-dfp/master.m3u8</link>
+<thumbnail>http://media.theindychannel.com/photo/2015/12/18/WRTV_Breaking_News_Indy_Channel_6_640x480_Hub_Web_Graphic_1450489924805_28648615_ver1.0_320_240.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>WISH TV 8 Local Indianapolis-Indiana</title>
+<sportsdevil>http://livestream.com/accounts/1858612/events/1647951/player?width=770&height=440&autoPlay=true&mute=false</sportsdevil>
+<referer>referer=http://livestream.com/</referer>
+<thumbnail>http://images.wikia.com/logopedia/images/5/5f/WISH-TV_8_logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+ 
+<item>
+<title>NBC WTHR 13 Local Indianapolis-Indiana</title>
+<sportsdevil>http://livestream.com/accounts/17974260/events/5340319/player?width=1140&height=640&autoPlay=true&mute=false</sportsdevil>
+<referer>referer=http://livestream.com/</referer>
+<thumbnail>http://rbr.com/wp-content/uploads/WTHR_13-225x180.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+ 
+<item>
+<title>WXIN FOX 59 local Indianapolis-Indiana</title>
+<sportsdevil>http://livestream.com/accounts/9286889/events/3206708/player?width=770&height=440&autoPlay=true&mute=false</sportsdevil>
+<referer>referer=http://livestream.com/</referer>
+<thumbnail>http://www.adweek.com/tvspy/files/2010/12/WXIN_59logo-graphic.jpg?red=ts</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>WANE TV 15 FortWayne-Indiana</title>
+<sportsdevil>http://freeitvonline.com/newschan/IN/LINK2.html</sportsdevil>
+<referer>referer=http://freeitvonline.com/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/WANE-TV.png/175px-WANE-TV.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>WFIE 14 News Evansville-Indiana</title>
+<sportsdevil>http://freeitvonline.com/newschan/IN/LINK3.html</sportsdevil>
+<referer>referer=http://freeitvonline.com/</referer>
+<thumbnail>https://media.licdn.com/media/p/1/005/00c/051/3dca309.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>WLFI NEWS 18 West Layfayette-Indiana</title>
+<sportsdevil>http://freeitvonline.com/newschan/IN/LINK5.html</sportsdevil>
+<referer>referer=http://freeitvonline.com/</referer>
+<thumbnail>https://lh5.ggpht.com/VHIof8YYK5dKQDima90bU8WCu3PUgfiZAODNwsMjsOJumk3WreSR2o9_pv0zpE3omd1P=w300</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>WTHI-TV 10 Terre Haute-Indiana</title>
+<sportsdevil>http://freeitvonline.com/newschan/IN/LINK7.html</sportsdevil>
+<referer>referer=http://freeitvonline.com/</referer>
+<thumbnail>http://img.new.livestream.com/events/0000000000192e81/20b89d6e-9f4e-427c-ba32-ef5d183daf10.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+
+<item>
+<title>Newsmax TV</title>
+<utube>6bqvoUMVmCs</utube>
+<thumbnail>https://www.rokuchannels.tv/wp-content/uploads/2013/10/newmax.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>NEWSMAX TV US link 2</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/newsmax_tv_us.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/0/08/ABC_News_2013b.png/revision/latest/scale-to-width-down/220?cb=20130728134540&format=webp</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/logopedia/images/0/08/ABC_News_2013b.png/revision/latest/scale-to-width-down/220?cb=20130728134540&format=webp</fanart>
+</item>
+
+<item>
+<title>KXII News 12 Fox</title>
+<link>http://w3.cdn.anvato.net/live/ephemeral/8ewaJ0vGLPgIrm9WtAIE9PQ4jB5DQXq9/kxii/274k/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/33/KXII12.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>WDAM Weather & News 7</title>
+<sportsdevil>http://livestream.com/accounts/11595552/events/3707023/player?width=770&height=440&autoPlay=true&mute=false</sportsdevil>
+<referer>referer=http://livestream.com/</referer>
+<thumbnail>http://img-ipad.appcolt.com/img/2/5/2553-1-wdam-7-hattiesburg-weather.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox News HD</title> 
+<link>http://ilv53.is.ustvnow.com/ilv53/mp4:CDF9BFOXNUSTVNOW3/playlist.m3u8?key=tbd</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2015/01/Fox-News-Channel-HD.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg<fanart>
+<item>
+
+<item>
+<title>CBSN News</title>
+<link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
+<thumbnail>https://roku-blog.s3.amazonaws.com/wp-content/uploads/2014/11/CBSN-Logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CNBC HD</title>
+<link>http://ilv62.is.ustvnow.com/ilv62/mp4:A82DBCNBCUSTVNOW3/playlist.m3u8?key=tbd</link>
+<thumbnail>http://edmoy.com/wp-content/uploads/2013/10/CNBC_logo_wide.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CNN HD</title>
+<link>
+sublink:http://ilv61.is.ustvnow.com/ilv61/mp4:773D2CNN0USTVNOW3/playlist.m3u8?key=tbd#
+sublink:http://149.255.152.110/cnn/index.m3u8#
+sublink:https://www.youtube.com/watch?v=YIG-yS7Brqs#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1280px-Cnn.svg.png</thumbnail>
+</item>
+
+<item>
+<title>CNN SD</title>
+<sportsdevil>http://www.zahitvstation.com/watch-cnn-usa-live</sportsdevil>
+<referer>referer=http://www.zahitvstation.com/</referer>
+<thumbnail>http://3.bp.blogspot.com/-fEkD3PF3pN8/TWk3LOCbQsI/AAAAAAAADLw/2N1oaq4-yzg/s1600/cnn.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CNN International HD</title>
+<link>http://149.255.152.110/cnn/index.m3u8</link>
+<thumbnail>http://www.vector-logo.net/logo_preview/eps/c/CNN_International.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>EuroNews ENG UK</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
+<thumbnail>http://www.guide-az.com/wp-content/uploads/2010/12/Euronews.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Bloomberg ASIA HD</title>
+<link>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8</link>
+<thumbnail>http://perspective.pk/wp-content/uploads/2016/07/bloomberg1.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Bloomberg US HD</title>
+<link>
+sublink:http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$#
+sublink:http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M700.m3u8#
+</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2014/12/Bloomberg-Television-HD.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Bloomberg UK HD</title>
+<link>http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/220px-Bloomberg_Television_logo.svg.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>C-SPAN</title>
+<link>http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/langfr-150px-Logo_of_C-SPAN.svg.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>C-SPAN 2</title>
+<link>http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://fiber.storage.googleapis.com/channels/logos/cspan2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>C-SPAN 3</title>
+<link>http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGzpPjE8hMnZpDhoypwF30kuIvJ9WqHhfX5upFMz9uNXdSqqt6</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sky News Live HD</title>
+<utube>y60wDzZt8yg</utube>
+<thumbnail>http://2.bp.blogspot.com/-F4ClAdgFtwY/Uox8CXacRPI/AAAAAAAAAXo/O-7Gg2qZTJc/s1600/sky_news_hd.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>SKY News SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bb1.sendevric.com:8000/live/marksat64/DMzjwa0FSe/197.ts</link>
+<thumbnail>https://lh3.googleusercontent.com/-T87BsNe8qwQ/TYjshU35JnI/AAAAAAAAAVA/S3TZTIg7ZDo/s1600/SkyNewsHDConcept2a.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>BBC News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bb1.sendevric.com:8000/live/marksat64/DMzjwa0FSe/198.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>CBN News</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8</link>
+<thumbnail>http://www.cbn.com/PageFiles_Files/7595/CBNNewsBlue_PVW.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Texas Insider</title>
+<link>http://streams.tvknob.com/tvloops/CH12/tvknob.wsx</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Texastitlecard.jpg/230px-Texastitlecard.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>NASA TV Media</title>
+<link>$doregex[url]</link>
+<regex>
+    <name>url</name>
+    <expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
+    <page></page>
+</regex>
+<regex>
+    <name>jsonurl</name>
+    <expres>hlsvp":"(.*?)"</expres>
+    <page>https://www.youtube.com/watch?v=OX9I1KyNa8M</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-D7tNppml7sw/AAAAAAAAAAI/AAAAAAAAAAA/65fuq-FHf3g/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Weather Nation</title>
+<link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-LreUIrvWxOg/UtcnQ_nYzMI/AAAAAAAAIVM/dXEJpiPP_W4/s1600/weathernation1.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Weather Channel Canada HD</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/The_Weather_Network_HD_Logo.PNG/revision/latest?cb=20120922175154</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Weather Network Canada SD</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer4.m3u8</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/29/The_Weather_Network_2011_Logo.png/revision/latest?cb=20120922174740</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>360 North</title>
+<link>http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/03_logo/360_North_USA.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>SmashTV News</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/12803100/streams/live/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/2/26/Smash-tv-logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>DW English</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d1/DW_Logo_2012.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Channel News Asia</title>
+<link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-p6OdSPnjRKQ/UT6vF3LQMVI/AAAAAAAAMMU/T1eov3b5KsA/s1600/channel_newsasia.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>TVC News</title>
+<link>rtmp://77.92.76.135:1935/tvcnews/livestream</link>
+<thumbnail>http://talkmedianigeria.com/wp-content/uploads/2013/02/TVC-NEWS-logo-3.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>London Live</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8</link>
+<thumbnail>http://www.vuelio.com/uk/wp-content/uploads/2013/09/London-Live.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Huffington Post</title>
+<link>http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1400.m3u8</link>
+<thumbnail>http://www.themockers.net/sites/default/files/636_huffpo_logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>RT</title>
+<link>http://rt-a.akamaihd.net/ch_06@325610/master.m3u8</link>
+<thumbnail>http://srbin.info/wp-content/uploads/2015/10/rt-logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>RT Documentary</title>
+<link>http://rt-a.akamaihd.net/ch_05@325609/master.m3u8</link>
+<thumbnail>http://i0.wp.com/www.watchallchannels.com/wp-content/uploads/2015/02/RT-Documentary.jpg?resize=520%2C245</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

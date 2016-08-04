@@ -1,0 +1,162 @@
+<item>
+<title>[COLOR gold] [I] -----LIVE OLYMPICS RIO Aug 5th-21st 2016----- [/I] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://www.sportshdwallpapers.com/download/rio-olympics-2016-logo-on-white_1920x1200_947-wide.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<externallink>ignorme</externallink>
+</item>
+
+<item>  
+<title>NBCSN 1080P OLYMPICS RIO Aug 5th-21st 2016</title>
+<link>http://23.22.53.82/server/play/nbcsnxctg/master.m3u8</link>
+<thumbnail>http://www.sportshdwallpapers.com/download/rio-olympics-2016-logo-on-white_1920x1200_947-wide.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>NBCSN HD OLYMPICS RIO Aug 5th-21st 2016</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/yyaayy666/G62RrpvyXf/2925.ts</link>
+<thumbnail>http://www.sportshdwallpapers.com/download/rio-olympics-2016-logo-on-white_1920x1200_947-wide.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] [I] ------- UFC 201  SAT. JUL. 30, 2016 7pm ET  LAWLER VS. WOODLEY (LINKS WILL BE PUT IN BEFORE THE EVENT START) -------------------------- [/I] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<externallink>ignorme</externallink>
+</item>
+
+<item>
+<title>BT Sport 2 HD UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/fr443500/75019pa/281.ts</link>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 HD link 2 UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<sportsdevil>http://mamahd.com/live/front_embed_927.html</sportsdevil>
+<referer>http://mamahd.com/</referer>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 HD link 3 UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/281.ts</link>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 HD link 4 UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<sportsdevil>http://streamking.cc/player?channel=btsport2&player=jwplayer7</sportsdevil>
+<referer>http://streamking.cc/</referer>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 SD UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<sportsdevil>http://www.time4tv.com/2016/04/bt-sport-2.php</sportsdevil>
+<referer>referer=http://www.time4tv.com/</referer>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 SD link 2 UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<sportsdevil>http://www.ibrod.tv/btsports2.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2 SD link 3 UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<sportsdevil>http://www.time4tv.com/2016/04/bt-sport-2.php</sportsdevil>
+<referer>referer=http://www.time4tv.com/</referer>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 2 HD UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.54.54:8000/live/cmu.edit@gmail.com/7eU1xWh5y2/880.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 2 HD link 2 UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/fr443500/75019pa/2493.ts</link>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sport 2 HD link 3 UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/foxsports2.php?width=650</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Sports 2 SD UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY</title>
+<sportsdevil>http://www.googlitv.com/Fox-Soccer-live-streaming.php</sportsdevil>
+<referer>http://www.googlitv.com/Fox-Soccer-live-streaming.php</referer>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] [I] ------- HD & SD LINKS WILL BE PUT IN BEFORE THE EVENT STARTS -------------------------- [/I] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<externallink>ignorme</externallink>
+</item>
+
+<item>
+<title>[COLOR blue] [I] ------- SportsDevil Links Below UFC 201  SAT. JUL. 30, 2016 7pm ET  LAWLER VS. WOODLEY (LINKS WILL BE PUT IN BEFORE THE EVENT START) -------------------------- [/I] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<externallink>ignorme</externallink>
+</item>
+
+<item>
+<title>[COLOR white]-------- UFC 201  SAT. JUL. 30, 2016 7pm ET  LAWLER VS. WOODLEY ------[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<externallink>http://pastebin.com/raw/G5408FTb</externallink>
+</item>
+
+<item>
+<title>[COLOR white]-------- UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY ----- You Must Have the Sports Devil Addon Installed in your Kodi[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]-------- UFC 201  SAT. JUL. 30, 2016  LAWLER VS. WOODLEY ----- You Must Have the Sports Devil Addon Installed in your Kodi[/COLOR]</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/vipbox.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://boxeomundial.com.s3-us-west-1.amazonaws.com/wp-content/uploads/2016/06/07175441/UFC-201-ROBBIE-LAWLER-TYRON-WOODLEY-625x261.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR purple] [I] -------------- REPLAYS -------------------- [/I] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://www.fightbookmma.com/wp-content/uploads/2016/07/20160714_173217.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<externallink>ignorme</externallink>
+</item>
+
+<item>
+<title>REPLAY UFC FIGHT NIGHT  SAT. JUL. 23, 2016  HOLM VS SHEVCHENKO</title>
+<link>http://vidzi.tv/7srljdjrsfbm.html</link>
+<thumbnail>http://www.fightbookmma.com/wp-content/uploads/2016/07/20160714_173217.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

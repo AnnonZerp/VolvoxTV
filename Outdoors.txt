@@ -1,0 +1,87 @@
+<item>
+<title>RainbirdHD 4K</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCZb5kIRUMb7hVPYgxr9GwRg/?page=0</jsonrpc>
+<thumbnail>http://s1.r29static.com/bin/entry/c48/x,80/1234658/rainbirdhd-copy.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>LoungeV Films - Relaxing Music and Nature Sounds 4K</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCyupwg56cb-DKlz8fg09Vbw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-UCc_OGvq0eU/AAAAAAAAAAI/AAAAAAAAAAA/Na2cSmJOLfk/s900-c-k-no/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Nature Relaxation 4K</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC4lp9Emg1ci8eo2eDkB-Tag/?page=0</jsonrpc>
+<thumbnail>http://i1.ytimg.com/vi/IPkCnMso5rE/maxresdefault.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Triumph Rainbow 4K</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCs1sqCgweOfFJgcnUUO5LJg/?page=0</jsonrpc>
+<thumbnail>http://media-cache-ak0.pinimg.com/736x/fd/b4/95/fdb495d655b3ec1f3d71efa4180eba4f.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Gone Wild Outdoors HD</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCoI8KChwNneRuRUdJiLrlWw/?page=0</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/1241845034/GoneWildOutdoorsLogo_Black_med.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>National Geographic</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/?page=0</jsonrpc>
+<thumbnail>http://www.turnthepayge.com/wp-content/uploads/2014/12/national-geographic-logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Sportsman Channel HD</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCH495H0ZkAFN1jBiQ8potqg/?page=0</jsonrpc>
+<thumbnail>http://d2x1oedzzjp4du.cloudfront.net/uploads/production/document/picture/32/NRA_News_Headers_SportsmanChannel.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>CoasterForce HD</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCIxiXRZqUv9zYVM80cz6ZnA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-cT1JWYqo2Ss/AAAAAAAAAAI/AAAAAAAAAAA/pFlJQgVgwZQ/s100-c-k-no/photo.jpg</thumbnail>
+<fanart>https://c1.staticflickr.com/8/7466/15976954181_020cf3ce76_b.jpg</fanart>
+</item>
+
+<item>
+<title>wilderness outfitters</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCfa-XVztQrDlf-2v1UUdkwg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-IJ42iqyKXsE/AAAAAAAAAAI/AAAAAAAAAAA/Cl2q2G62wLo/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>My Olympics Outdoor Series</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC3pXCdjjtsArRhITeNpYvHg/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-9W_7YSatRjg/AAAAAAAAAAI/AAAAAAAAAAA/QV4I0tn_90Y/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>TA Outdoors</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC2SMpy2oZV6BoyJEYShw9bw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-fZy4nbP9cFM/AAAAAAAAAAI/AAAAAAAAAAA/fhL9YfaNqO8/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

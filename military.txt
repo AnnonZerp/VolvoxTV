@@ -1,0 +1,368 @@
+<item>
+<title>The Military Channel</title>
+<link>http://fluvod1.giniko.com/all-military/all-military/tracks-5,6/index.m3u8?token=67b56bbd5c74f9aeded1c95757d5a11b86400</link>
+<thumbnail>http://3.bp.blogspot.com/-A4tCTHPzKg4/UQFjk3LDaaI/AAAAAAAABiE/QriPq1SXllk/s1600/militarychanneltwitterlogo.jpg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Forces Tv HD</title>
+<utube>gKFk-lTsDPE</utube>
+<thumbnail>http://forces.tv/sites/all/themes/forcestv/images/forcestv-logo.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Ready for Combat?</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCrgcSjqcpKlXP1DM1cmfHnQ/?page=0</jsonrpc>
+<thumbnail>http://www.czcoreshop.com/fotky30281/fotos/_vyr_490digital-punk-ready-for-chaos-ss-black.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>AiirSource Military</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCd4W_0_E64eeP-o1ZOqVN2A/?page=0</jsonrpc>
+<thumbnail>https://lh3.googleusercontent.com/xvpEdr9TbMesfnIoyse-bjhKVF8xpegqOorPS2vi_rc37nrIJLWigH2frU3HrT58RsCcFQ=s630-fcrop64=1,203320e4df64df1a</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Armed Forces</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCCStXd0VQmwhESXivowRn1g/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/da/Armed_forces_in_Iraq_-_January_2008.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>War Clashes</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCT4layPPCzgR_99g5VYYvmQ/?page=0</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/674371184818040833/t2DvEzaA.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sniper - Inside The Crosshairs</title>
+<utube>Aa_pPiQW2Cs</utube>
+<thumbnail>http://s2.dmcdn.net/EJQ-i/1280x720-OLP.jpg</thumbnail>
+<fanart>http://s2.dmcdn.net/EJQ-i/1280x720-OLP.jpg</fanart>
+</item>
+
+<item>
+<title>Sniper - Deadliest Missions</title>
+<utube>kTLHIf06UQg</utube>
+<thumbnail>https://i.ytimg.com/vi/AIoz1ciJ3V0/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/AIoz1ciJ3V0/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Sniper - Bulletproof</title>
+<utube>1xV2_3BEM34</utube>
+<thumbnail>http://karga7.com/wp-content/uploads/2012/09/SNIPER-BULLETPROOF.png</thumbnail>
+<fanart>http://karga7.com/wp-content/uploads/2012/09/SNIPER-BULLETPROOF.png</fanart>
+</item>
+
+<item>
+<title>Milatary Arms Channel</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCZ-qxagOkAmCEP-Tu6YliUQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-rrPh_ICJxPQ/AAAAAAAAAAI/AAAAAAAAAAA/WuSvkKleEoE/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/J_aCdGOXVeY/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>War in Afghanistan</title>
+<utube>BkVVnI4ci3o</utube>
+<thumbnail>http://latitudenews.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/RTR1G7EQ.jpg</thumbnail>
+<fanart>http://latitudenews.wpengine.netdna-cdn.com/wp-content/uploads/2012/02/RTR1G7EQ.jpg</fanart>
+</item>
+
+<item>
+<title>Syria War</title>
+<utube>8EuVyZIUfyM</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a2/Azaz,_Syria.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/a/a2/Azaz,_Syria.jpg</fanart>
+</item>
+
+<item>
+<title>US Forces in Heavy Fighting</title>
+<utube>BPOXwUgss3I</utube>
+<thumbnail>http://www.equilibri.net/wp-content/uploads/2015/11/maxresdefault1.jpg</thumbnail>
+<fanart>http://www.equilibri.net/wp-content/uploads/2015/11/maxresdefault1.jpg</fanart>
+</item>
+
+<item>
+<title>HIMARS ROCKETS & HOWITZER</title>
+<utube>uZhscp0fmvQ</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/20/Firing_High_Mobility_Artillery_Rocket_systems.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/2/20/Firing_High_Mobility_Artillery_Rocket_systems.jpg</fanart>
+</item>
+
+<item>
+<title>How United States Marines Are Made</title>
+<utube>t3kyZsijUWo</utube>
+<thumbnail>http://c8.alamy.com/comp/DBHT3C/portrait-of-female-united-states-marine-corps-soldier-in-utility-uniform-DBHT3C.jpg</thumbnail>
+<fanart>http://c8.alamy.com/comp/DBHT3C/portrait-of-female-united-states-marine-corps-soldier-in-utility-uniform-DBHT3C.jpg</fanart>
+</item>
+
+<item>
+<title>THE FANTASTIC COCKPIT VIEW</title>
+<utube>nXBiLXKk9y8</utube>
+<thumbnail>https://i.ytimg.com/vi/EpHzbpmJj_4/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/EpHzbpmJj_4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>AH-1W SUPER COBRA’S</title>
+<utube>QWhQCiiM9es</utube>
+<thumbnail>http://www.surclaro.com/modules/Media_Gallery/gallery/Screenshots/FreeStyle/Super_Cobra_over_Hawaii_2_edit.jpg</thumbnail>
+<fanart>http://www.surclaro.com/modules/Media_Gallery/gallery/Screenshots/FreeStyle/Super_Cobra_over_Hawaii_2_edit.jpg</fanart>
+</item>
+
+<item>
+<title>General Atomics MQ-1 </title>
+<utube>cIWdtZ1VGrw</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/08/MQ-1_Predator_unmanned_aircraft.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/0/08/MQ-1_Predator_unmanned_aircraft.jpg</fanart>
+</item>
+
+<item>
+<title>X-47B</title>
+<utube>7svCxwqhdGc</utube>
+<thumbnail>http://www.northropgrumman.com/Photos/pgL_UC-10028_020.jpg</thumbnail>
+<fanart>http://www.northropgrumman.com/Photos/pgL_UC-10028_020.jpg</fanart>
+</item>
+
+<item>
+<title>U.S. SOLDIERS IN IRAQ</title>
+<utube>Movod0d-Ruo</utube>
+<thumbnail>https://timemilitary.files.wordpress.com/2013/01/rtr2yvq3.jpg</thumbnail>
+<fanart>https://timemilitary.files.wordpress.com/2013/01/rtr2yvq3.jpg</fanart>
+</item>
+
+<item>
+<title>JAPANESE AND US SOLDIERS IN ACTION</title>
+<utube>csfTnYwMC6U</utube>
+<thumbnail>https://i.ytimg.com/vi/csfTnYwMC6U/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/csfTnYwMC6U/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Battle of Donetsk Airport</title>
+<utube>viYLLmi4Mk4</utube>
+<thumbnail>http://static5.businessinsider.com/image/5383730becad04db5647e83a/ukraine-army-rebels-battle-for-control-of-donetsk-airport.jpg</thumbnail>
+<fanart>http://static5.businessinsider.com/image/5383730becad04db5647e83a/ukraine-army-rebels-battle-for-control-of-donetsk-airport.jpg</fanart>
+</item>
+
+<item>
+<title>US Soldiers POV Helmet Cam Combat</title>
+<utube>i2mQyMyZKio</utube>
+<thumbnail>http://www.khaama.com/wp-content/uploads/2016/01/Afghanistan-troops.jpg</thumbnail>
+<fanart>http://www.khaama.com/wp-content/uploads/2016/01/Afghanistan-troops.jpg</fanart>
+</item>
+
+<item>
+<title>M1 ABRAMS TANKS</title>
+<utube>UTB9z-G9VvA</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/77/Kuwaiti_M1_Abrams_tanks.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/7/77/Kuwaiti_M1_Abrams_tanks.jpg</fanart>
+</item>
+
+<item>
+<title>MARINES HEAVY COMBAT ACTION</title>
+<utube>c9JDtcXpI9o</utube>
+<thumbnail>https://i.ytimg.com/vi/T-Hvq8fazcs/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/T-Hvq8fazcs/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>M109 PALADIN HOWITZERS</title>
+<utube>960UvbcD7qs</utube>
+<thumbnail>https://i.ytimg.com/vi/l5afg6RE5HE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/l5afg6RE5HE/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>US MARINES LIVE</title>
+<utube>FLmbNyac-bs</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_United_States_Marine_Corps.svg/2000px-Flag_of_the_United_States_Marine_Corps.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_United_States_Marine_Corps.svg/2000px-Flag_of_the_United_States_Marine_Corps.svg.png</fanart>
+</item>
+
+<item>
+<title>M2 BRADLEY</title>
+<utube>BA27t8xvq-8</utube>
+<thumbnail>https://i.ytimg.com/vi/84dIXjPrtFA/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/84dIXjPrtFA/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>A-10 THUNDERBOLT</title>
+<utube>mWn7ynLKMEs</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/cf/A-10_Thunderbolt_II_In-flight-2.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/c/cf/A-10_Thunderbolt_II_In-flight-2.jpg</fanart>
+</item>
+
+<item>
+<title>STINGER MISSILE</title>
+<utube>RtPt3f92xd4</utube>
+<thumbnail>https://i.ytimg.com/vi/uH0idEAYl7I/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/uH0idEAYl7I/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Syrian Army in Heavy Urban Close Combat</title>
+<utube>c4zNNod6qXk</utube>
+<thumbnail>https://i.ytimg.com/vi/c4zNNod6qXk/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/c4zNNod6qXk/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>War in Ukraine 2015</title>
+<utube>UuwPO3i3mwc</utube>
+<thumbnail>https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/1/22/1390406658343/Ukrainian-anti-government-014.jpg</thumbnail>
+<fanart>https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/1/22/1390406658343/Ukrainian-anti-government-014.jpg</fanart>
+</item>
+
+<item>
+<title>US Forces in Heavy Fighting</title>
+<utube>BPOXwUgss3I</utube>
+<thumbnail>https://i.ytimg.com/vi/4PJuJVPbEqE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/4PJuJVPbEqE/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>U.S. Navy Future War Ships</title>
+<utube>QjG_dBUehAk</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/08/Uss_san_antonio_1330453.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/0/08/Uss_san_antonio_1330453.jpg</fanart>
+</item>
+
+<item>
+<title> Sig SRD 762 Titanium Suppressors </title>
+<utube>ihbfJFhRZak</utube>
+<thumbnail>https://i.ytimg.com/vi/P-n-77QDWUc/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/P-n-77QDWUc/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title> Birthplace of the Tavor </title>
+<link>https://vimeo.com/72293315</link>
+<thumbnail>https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/t31/1537762_498793660241421_1679929790_o.jpg</thumbnail>
+<fanart>https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/t31/1537762_498793660241421_1679929790_o.jpg</fanart>
+</item>
+
+<item>
+<title> How it all started </title>
+<utube>qj7j5gwWXlM</utube>
+<thumbnail>http://www.inetres.com/gp/military/infantry/rifle/XM8/XM8_compact_0.jpg</thumbnail>
+<fanart>http://www.inetres.com/gp/military/infantry/rifle/XM8/XM8_compact_0.jpg</fanart>
+</item>
+
+<item>
+<title> The new Sig MPX collapsible brace</title>
+<utube>IbuSRfCI2Dw</utube>
+<thumbnail>https://farm6.staticflickr.com/5785/22113740816_85afdb067c_b.jpg</thumbnail>
+<fanart>https://farm6.staticflickr.com/5785/22113740816_85afdb067c_b.jpg</fanart>
+</item>
+
+<item>
+<title> VEPR 12 Shotgun </title>
+<utube>fMfzN5LZc3o</utube>
+<thumbnail>http://ic.pics.livejournal.com/pavel_novichkov/46302821/259465/259465_original.jpg</thumbnail>
+<fanart>http://ic.pics.livejournal.com/pavel_novichkov/46302821/259465/259465_original.jpg</fanart>
+</item>
+
+<item>
+<title> Long Range Shooting </title>
+<utube>Nq9DSUHzoLg</utube>
+<thumbnail>http://www.americansnipermovie.com/images/fb_share.jpg</thumbnail>
+<fanart>http://www.americansnipermovie.com/images/fb_share.jpg</fanart>
+</item>
+
+<item>
+<title> Military Drone Technology </title>
+<link>https://vimeo.com/129684374</link>
+<thumbnail>https://i.ytimg.com/vi/B1QYDjYMcqg/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/B1QYDjYMcqg/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title> Worlds MOST FEARED DARPA Technology </title>
+<link>vICFah-aDFY</link>
+<thumbnail>https://i.ytimg.com/vi/NU3GsMRV24I/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NU3GsMRV24I/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title> Future Secret Military Aircraft </title>
+<utube>bmuWGeos2dw</utube>
+<thumbnail>http://www.digitaljournal.com/img/8/9/9/i/8/2/8/o/NASAPlane.jpg</thumbnail>
+<fanart>http://www.digitaljournal.com/img/8/9/9/i/8/2/8/o/NASAPlane.jpg</fanart>
+</item>
+
+<item>
+<title> Most Advanced Helicopters </title>
+<utube>obQNuP9FFew</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/18/Marine_CH-53D_Sea_Stallion.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/1/18/Marine_CH-53D_Sea_Stallion.jpg</fanart>
+</item>
+
+<item>
+<title> Deadliest Killing Machine  </title>
+<utube>g_rd8xtlGdw</utube>
+<thumbnail>https://i.ytimg.com/vi/g_rd8xtlGdw/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/g_rd8xtlGdw/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title> Future War Ships </title>
+<utube>y-EPrjDH-Og</utube>
+<thumbnail>https://i.ytimg.com/vi/a7HI85BwBVg/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/a7HI85BwBVg/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title> The new IWI X95 Rifle </title>
+<utube>CASkgMiTZDc</utube>
+<thumbnail>http://www.defensereview.com/wp-content/uploads/2016/03/Israel_Weapon_Industries_IWI_X95_Bullpup_Assault_Tactical_Rifle_Carbine_SBR_at_SHOT_Show_2016_by_David_Crane_DefenseReview.com_DR_5.jpg</thumbnail>
+<fanart>http://www.defensereview.com/wp-content/uploads/2016/03/Israel_Weapon_Industries_IWI_X95_Bullpup_Assault_Tactical_Rifle_Carbine_SBR_at_SHOT_Show_2016_by_David_Crane_DefenseReview.com_DR_5.jpg</fanart>
+</item>
+
+<item>
+<title>Troy GAU-5/A/A rifle, a military classic reborn</title>
+<utube>zKMTq71scYI</utube>
+<thumbnail>http://cdn.bearingarms.com/uploads/2016/05/gau-5-a-a.jpg</thumbnail>
+<fanarthttp://cdn.bearingarms.com/uploads/2016/05/gau-5-a-a.jpg</fanart>
+</item
+
+<item>
+<title> Knives of the Military </title>
+<utube>QOuiLljSCfI</utube>
+<thumbnail>http://images.knifecenter.com/thumb/1500x1500/knifecenter/emerson/images/EMMICROCOMMSFnw.jpg</thumbnail>
+<fanart>http://images.knifecenter.com/thumb/1500x1500/knifecenter/emerson/images/EMMICROCOMMSFnw.jpg</fanart>
+</item>
+
+<item>
+<title> HK XM8 Rifle by Tommy Built </title>
+<utube>R0enyMTjWmI</utube>
+<thumbnail>http://cs3.gtaall.com/screenshots/4dc09/2014-02/original/26f3503e9bb82f352747cc48ee9faf47d850654c/157389-GTAIV-2014-02-03-05-44-03-18.jpg</thumbnail>
+<fanart>http://cs3.gtaall.com/screenshots/4dc09/2014-02/original/26f3503e9bb82f352747cc48ee9faf47d850654c/157389-GTAIV-2014-02-03-05-44-03-18.jpg</fanart>
+</item>
+
+<item>
+<title> Midwest Ind. Red Dot Sight mount for Kel-Tec Sub2000 </title>
+<utube>J_aCdGOXVeY</utube>
+<thumbnail>https://i.ytimg.com/vi/we2M_lKSzcQ/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/we2M_lKSzcQ/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title> Century Arms C39V2 </title>
+<utube>4w3PibNhNgo</utube>
+<thumbnail>http://www.akoperatorsunionlocal4774.com/wp-content/uploads/2015/01/C39.jpg</thumbnail>
+<fanart>http://www.akoperatorsunionlocal4774.com/wp-content/uploads/2015/01/C39.jpg</fanart>
+</item>

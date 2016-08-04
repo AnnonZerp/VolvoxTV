@@ -1,0 +1,39 @@
+<item>
+<title>[COLOR gold]GoodFellas Spanish Premium Live Tv HD[/COLOR]</title>
+<link>http://pastebin.com/raw/0Fwn0BMz</link>
+<externallink>http://pastebin.com/raw/0Fwn0BMz</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<thumbnail>http://www.tonge-moor.bolton.sch.uk/ourschool/Documents/spanish_banner.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]GoodFellas Live Tv By Country[/COLOR]</title>
+<link>http://bit.ly/goodfellasfuckoff3</link>
+<externallink>http://bit.ly/goodfellasfuckoff3</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<thumbnail>http://www.israelstreamtv.com/images/tv-logo-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]GoodFellas USA Canada & UK Live Channels[/COLOR]</title>
+<link>http://pastebin.com/raw/cjp9pk0E</link>
+<externallink>http://pastebin.com/raw/cjp9pk0E</externallink>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/English_language_-_United_States%2C_Canada_and_the_United_Kingdom.svg/800px-English_language_-_United_States%2C_Canada_and_the_United_Kingdom.svg.png</thumbnail>
+</item>
+
+<item>
+<title>USA&UK Alternative Live TV Entertainment and Sports</title>
+<thumbnail>https://thevpn.guru/wp-content/uploads/2014/04/uk-tv-channels-abroad-expat-overseas-itv-bbc-iplayer-unblock.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=57&amp;name=UKTVNow&amp;url=sss</jsonrpc>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>US TV Now</title>
+<thumbnail>http://bit.ly/27YaBhZ</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=live</jsonrpc>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

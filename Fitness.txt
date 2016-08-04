@@ -1,0 +1,158 @@
+<item>
+<title>Six Pack Shortcuts & Abs After 40 HD</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCH9ciCUcWavMsFcAJtLUSyw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-oyuH_rKvHMM/AAAAAAAAAAI/AAAAAAAAAAA/Xxlc28Mtr8s/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>4K GymRa Plus Workouts</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC3G7jZA7ZBuDBNOpmERCY7w/?page=0</jsonrpc>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/bd/3d/d2/bd3dd2212b57c30a26b0e74bca4c7a9b.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Yoga Channel</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCRzrpCnYAWGD0GCElcOHMqg/?page=0</jsonrpc>
+<thumbnail>http://i1.ytimg.com/i/RzrpCnYAWGD0GCElcOHMqg/mq1.jpg?v=53067145</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>FitnessBlender</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCiP6wD_tYlYLYh3agzbByWQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-60HgUrZsM18/AAAAAAAAAAI/AAAAAAAAAAA/EhMzQ6LTPOk/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/zwnvIStdVXM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Body healhy</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCUzNbm_TUKhZfdCPxJnT3Uw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-62JBOUigwPk/AAAAAAAAAAI/AAAAAAAAAAA/BrgafFdCkao/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://artecurativo.files.wordpress.com/2014/02/c5d1274ac9e5c12a45b9b9246fbb49f8-wix_mp_1024.jpg</fanart>
+</item>
+
+<item>
+<title>POPSUGAR Fitness</title>
+<utube>695PN9xaEhs</utube>
+<thumbnail>http://cdn3-www.thefashionspot.com/assets/uploads/gallery/5-of-our-favorite-free-personal-trainers-on-youtube/popsugar_fitness.jpg</thumbnail>
+<fanart>http://www.oliveprsolutions.com/dev/wp-content/uploads/2014/04/Popsugar-featuredimage.jpg</fanart>
+</item>
+
+<item>
+<title>Guide to Basic Zumba Moves</title>
+<utube>nzm3jO_yQno</utube>
+<thumbnail>http://zumbasg.com/wp-content/uploads/zumba-beginners-logo.png</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>Zumba for Beginners</title>
+<utube>7OBUSTrZOMk</utube>
+<thumbnail>http://life-warburg.de/wp-content/uploads/2012/02/zumba-logo-verticalyello1.jpg</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>30 Minute Zumba Workout</title>
+<utube>mwzwD6OePGQ</utube>
+<thumbnail>http://1.bp.blogspot.com/-xO8FjdpCU3A/Uq3a0zm-o2I/AAAAAAAADQ4/5XJxGpNwfVI/s1600/IR+-+30+Minute+Burn+&+Amazing+Abs.jpg</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>20 Minute Zumba Workout</title>
+<utube>Dtq6HnH_HMo</utube>
+<thumbnail>http://i.ebayimg.com/00/s/NTgxWDU3OA==/z/DK0AAOSwT6pVnI8Y/$_35.JPG</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>Latin 30 Minute Zumba Workout</title>
+<utube>fu_r4_YmLWM</utube>
+<thumbnail>http://jessicasmithtv.com/wp-content/uploads/2013/09/09.jpg</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>Easy 30 Minute Zumba Workout</title>
+<utube>xzA3XgmKaGI</utube>
+<thumbnail>http://villageofmonee.org/wp-content/uploads/2014/10/Zumba-pretty.jpg</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>30 Minute Zumba Workout 3</title>
+<utube>9azxXWUlglU</utube>
+<thumbnail>http://3.bp.blogspot.com/-NGsbuiUcxhQ/ULjfHRHZHcI/AAAAAAAAEWo/ScGIC8Pjch0/s1600/zumba2.jpg</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>16 Minute Zumba Class</title>
+<utube>OTdymYTKjfI</utube>
+<thumbnail>https://i.ytimg.com/vi/ntHBSWv-vKA/hqdefault.jpg</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>38 Minute Zumba Workout</title>
+<utube>SC6KlPLvhCk</utube>
+<thumbnail>http://3.bp.blogspot.com/-NGsbuiUcxhQ/ULjfHRHZHcI/AAAAAAAAEWo/ScGIC8Pjch0/s1600/zumba2.jpg</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>28 Minute Zumba Class</title>
+<utube>IZP0GZNWxPA</utube>
+<thumbnail>http://sheltonherald.com/wp-content/uploads/sites/33/2013/05/Shelton-Zumba.jpg</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>Full Length Zumba Class 40 mins</title>
+<utube>Hks39BziPpU</utube>
+<thumbnail>http://www.moellebanden.dk/ImageGen.ashx?image=/media/2191/eventmaker-682-zumba%20-%20Google-s%C3%B8gning%20%E2%80%93%20Google%20Chrome_2015-10-29_17-49-11.png&width=620</thumbnail>
+<fanart>http://www.fitbyrox.nl/wp-content/uploads/2013/07/zumba-slider.png</fanart>
+</item>
+
+<item>
+<title>insanity workout day 1 full video cardio workout dance great insanity workout program</title>
+<utube>OVszhFxIMmE</utube>
+<thumbnail>http://spikesandheels.com/wp-content/uploads/2013/05/burn-insanity-workout-dvd-mac.jpg</thumbnail>
+<fanart>http://thefitnessambition.com/wp-content/uploads/2013/03/Insanity-Workout-Tips-4.jpg</fanart>
+</item>
+
+<item>
+<title>insanity workout day 1 full video cardio workout great insanity workout program</title>
+<utube>ytcXzcRfa94</utube>
+<thumbnail>http://3.bp.blogspot.com/-S0R9kXd1t-Q/T7zMbsmWyvI/AAAAAAAAA1A/LGVyaz3_ys0/s1600/firstins.jpg</thumbnail>
+<fanart>http://thefitnessambition.com/wp-content/uploads/2013/03/Insanity-Workout-Tips-4.jpg</fanart>
+</item>
+
+<item>
+<title>Full Shaun T Workout (25Min)</title>
+<utube>wD6YeKcfTVI</utube>
+<thumbnail>https://www.beachbody.com/images/beachbody/en_us/products/programs/t25/hero/t25-hero-new.jpg</thumbnail>
+<fanart>http://thefitnessambition.com/wp-content/uploads/2013/03/Insanity-Workout-Tips-4.jpg</fanart>
+</item>
+
+<item>
+<title>Shaun T Insanity with Dr Oz</title>
+<utube>mbzCoaA5yDw</utube>
+<thumbnail>http://www.surftilyoudrop.com/images/focust-25.gif</thumbnail>
+<fanart>http://thefitnessambition.com/wp-content/uploads/2013/03/Insanity-Workout-Tips-4.jpg</fanart>
+</item>
+
+<item>
+<title>30 Minute Insanity Workout for Bikini Body at Home!</title>
+<utube>HGNCbas1Q1o</utube>
+<thumbnail>https://i.ytimg.com/vi/HGNCbas1Q1o/hqdefault.jpg</thumbnail>
+<fanart>http://thefitnessambition.com/wp-content/uploads/2013/03/Insanity-Workout-Tips-4.jpg</fanart>
+</item>

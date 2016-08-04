@@ -1,0 +1,373 @@
+<item>
+<title>[COLOR gold]--------SOME LINKS MAY GO DOWN BUT WILL RETURN WE DO NOT CONTROL THE SERVERS-------[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 StarGate SG1 (Needs Vaughnlive v0.1.8a)(get here https://www.sendspace.com/file/jktjen)</title>
+<sportsdevil>http://vaughnlive.tv/embed/video/aliensandufos8</sportsdevil>
+<referer>referer=http://vaughnlive.tv/</referer>
+<thumbnail>http://3.bp.blogspot.com/-JM-PL9PiVIU/T5spb08In5I/AAAAAAAAB_8/ATDZIQqMVig/s1600/Stargate_SG1_Team.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Most Extreme Elimination Challenge (Needs Vaughnlive v0.1.8a)(get here https://www.sendspace.com/file/jktjen)</title>
+<sportsdevil>http://vaughnlive.tv/embed/video/dontgeteliminated</sportsdevil>
+<referer>referer=http://vaughnlive.tv/</referer>
+<thumbnail>http://www.newvideo.com/wp-content/uploads/2013/03/itunes_mostextremeelimchallengeSSN1CVR.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Coming At You LIVE Classic Movies (Needs Vaughnlive v0.1.8a)(get here https://www.sendspace.com/file/jktjen)</title>
+<sportsdevil>http://vaughnlive.tv/embed/video/cherrymalotte</sportsdevil>
+<referer>referer=http://vaughnlive.tv/</referer>
+<thumbnail>http://thumb9.shutterstock.com/display_pic_with_logo/72054/72054,1262620662,2/stock-vector-black-grunge-rubber-stamp-with-movie-projector-shape-and-the-text-classic-movies-written-inside-the-43858948.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Duck Dynasty</title>
+<sportsdevil>http://lmshows.se/dd.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>https://fanart.tv/fanart/tv/256825/clearart/duck-dynasty-4f76f0bc53d28.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 The Venture Brothers</title>
+<link>http://amd.cdn.turner.com/adultswim/big/streams/playlists/venture-bros.m3u8?attributes=off</link>
+<thumbnail>http://wallpapercraze.com/images/wallpapers/theventureborthers-257925.jpeg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Columbo</title>
+<link>http://veetle.com/index.php/hls/streamMbrfast/51d8cf3f02188_/stream.m3u8</link>
+<thumbnail>https://fanart.tv/fanart/tv/70369/clearart/Columbo-70369.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Big Brother Live 30-40 secs to load-DUE TO FEED RESET TIME, MAIN FEEDS ( MAY NOT BE LIVE ) FROM 2 AM-10AM CST!</title>
+<sportsdevil>http://nowwatchtvlive.co/big-brother-17-usa-live-feeds-online-bb17-us-2015-stream</sportsdevil>
+<referer>http://nowwatchtvlive.co/</referer>
+<thumbnail>http://www.bigbrotherlivefeed.com/wp-content/uploads/2014/11/big-brother-live-feed.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Star Trek TNG</title>
+<link>http://veetle.com/index.php/hls/streamMbrfast/51e482fa02883_/stream.m3u8</link>
+<thumbnail>http://www.dvdsreleasedates.com/covers/star-trek-the-next-generation-the-next-level-blu-ray-cover-48.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+
+<item>
+<title>24/7 Sci-Fi Shows</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/7164.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 King Of Queens</title>
+<sportsdevil>http://lmshows.se/koq.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>https://fanart.tv/fanart/tv/73641/clearart/the-king-of-queens-50bddc4534763.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 30 Rock</title>
+<sportsdevil>http://www.ibrod.tv/30rock.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/30rock.html</referer>
+<thumbnail>http://www.nbc.com/sites/nbcunbc/files/files/styles/nbc_show_about_cover/public/images/2013/12/10/2013_1022_30rock_Show_KeyArt_1920x1080_GY.jpg?itok=R0I_Ba9L</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 DR Who</title>
+<sportsdevil>http://167.114.102.27/live/ib1zwfu4PtSlk0XUtgzt3w/1467767519/c0e67c407905103dbce3984c756f3f21.m3u8</sportsdevil>
+<referer>https://www.arconaitv.me/</referer>
+<thumbnail>http://i2.walesonline.co.uk/incoming/article9082094.ece/ALTERNATES/s615/Dr-Who-pepper.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 JBTV Music Tv</title>
+<link>https://api.new.livestream.com/accounts/4103375/events/2634658/videos/109050304.secure.m3u8</link>
+<thumbnail>http://www.ece.fr/ecole-ingenieur/wp-content/uploads/2014/09/JBTV.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Game Of Thrones HD</title>
+<sportsdevil>http://167.114.102.27/live/vOWSbegciU1J9VhoPvMiqA/1468648534/4a1a27296188c273f6733ead4fe4eff6.m3u8</sportsdevil>
+<referer>referer=http://167.114.102.27/</referer>
+<thumbnail>http://www.allthatsepic.com/wp-content/uploads/2014/04/game-of-thrones-2014-logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 The Walking Dead</title>
+<sportsdevil>http://www.ibrod.tv/twd.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/twd.html</referer>
+<thumbnail>http://www.optionated.com/wp-content/uploads/2012/01/The-Walking-Dead-wallpaper-5.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Impractical Jokers</title>
+<sportsdevil>http://lmshows.se/ij.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b9/Impractical_Jokers_Title.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Impractical Jokers link 2</title>
+<sportsdevil>http://lmshows.se/ij.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>https://fanart.tv/fanart/tv/254243/hdclearart/impractical-jokers-5122196d2dce9.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Fringe</title>
+<sportsdevil>http://www.ibrod.tv/fringe.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/fringe.html</referer>
+<thumbnail>http://images5.fanpop.com/image/photos/27400000/fringe-fringe-27407126-1024-768.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Home Improvement</title>
+<sportsdevil>http://lmshows.se/hi.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>http://fifasoccerblog.com/files/2009/09/Home-Improvement.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Suits</title>
+<sportsdevil>http://www.ibrod.tv/suits.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/suits.html</referer>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20120809200637/tvdatabase/images/5/5f/Suits.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Sopranos</title>
+<sportsdevil>http://www.ibrod.tv/sopranos.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/sopranos.html</referer>
+<thumbnail>http://static.tvtropes.org/pmwiki/pub/images/the-sopranos-2_7524.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 House</title>
+<sportsdevil>http://www.ibrod.tv/house.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/house.html</referer>
+<thumbnail>https://mystmusician.files.wordpress.com/2012/05/house_tv_show.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Big Bang Theory</title>
+<sportsdevil>http://www.ibrod.tv/bigbangtheory.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/bigbangtheory.html</referer>
+<thumbnail>http://media.comicbook.com/2016/02/bigbangtheoryday-170934.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Friends</title>
+<sportsdevil>http://www.ibrod.tv/friends.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/friends.html</referer>
+<thumbnail>http://images.fanpop.com/images/image_uploads/Friends-friends-259676_800_600.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Married With Children</title>
+<sportsdevil>http://lmshows.se/mwc.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>http://4.bp.blogspot.com/--9ONxzG2DbI/URdi0zq-vZI/AAAAAAAACGI/75iceThk6_8/s1600/married-with-children-3.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Seinfield</title>
+<sportsdevil>http://www.ibrod.tv/seinfield.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/seinfield.html</referer>
+<thumbnail>https://tribwgno.files.wordpress.com/2014/09/seinfeld-cast.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 New Girl</title>
+<sportsdevil>http://www.ibrod.tv/newgirl.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/newgirl.html</referer>
+<thumbnail>http://primetime.unrealitytv.co.uk/wp-content/uploads/2013/03/new-girl.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Film Noir Classic Channel</title>
+<link>http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-qxeO_B1O_Hw/UuUdw0lr_tI/AAAAAAAAGdY/TpehDWjyCDM/s1600/4x3%2Blogo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Classic Movies</title>
+<link>http://72.13.93.186:80/classicmovies</link>
+<thumbnail>http://thumb9.shutterstock.com/display_pic_with_logo/72054/72054,1262620662,2/stock-vector-black-grunge-rubber-stamp-with-movie-projector-shape-and-the-text-classic-movies-written-inside-the-43858948.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>24/7 Mystery Movies</title>
+<link>http://72.13.93.186:80/mysterymovies</link>
+<thumbnail>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Mystery-icon.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+<item>
+
+<item>
+<title>24/7 Mystery Science Theater 3000</title>
+<link>http://goo.gl/B2UPYd</link>
+<thumbnail>http://www.blastr.com/sites/blastr/files/mystery-science-theater-3000.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 HQ Bollywood Movies 2</title>
+<link>http://veetle.com/index.php/hls/streamMbrFast/4e2c5fd04592d_/stream.m3u8</link>
+<thumbnail>http://bollywoodmoviesofthemonth.com/images_/logo2.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Classics Tv Shows</title>
+<link>http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8</link>
+<thumbnail>http://www.ultraframe-conservatories.co.uk/image/classic%20logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 I love Lucy</title>
+<link>http://72.13.93.186/lucy</link>
+<thumbnail>http://www.frugal-cafe.com/public_html/frugal-blog/frugal-cafe-blogzone/wp-content/uploads/2011/08/i-love-lucy-title-logo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Adventure Time</title>
+<sportsdevil>http://lmshows.se/at.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>http://images6.fanpop.com/image/photos/34700000/adventure-time-beach-adventure-time-with-finn-and-jake-34708830-1063-752.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Tom And Jerry</title>
+<sportsdevil>http://www.ibrod.tv/tomjerry.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/tomjerry.html</referer>
+<thumbnail>http://1.bp.blogspot.com/-Mny_jJ2_Q5U/UQOLILz5WPI/AAAAAAAARPU/dlXvcYy9co0/s1600/Tom-and-Jerry.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Looney Toons</title>
+<sportsdevil>http://www.ibrod.tv/looneytoons.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/looneytoons.html</referer>
+<thumbnail>http://www.macrobusiness.com.au/wp-content/uploads/2014/01/LooneyTunesWallpaper800.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Futurama</title>
+<sportsdevil>http://www.ibrod.tv/futurama.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/futurama.html</referer>
+<thumbnail>http://images4.fanpop.com/image/photos/20000000/Futurama-futurama-20011522-1920-1200.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Simpsons</title>
+<link>http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk0MTAzMzgxOV5BMl5BanBnXkFtZTgwOTM3Mjg4MzE@._V1_UY268_CR10,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Invader ZIM</title>
+<sportsdevil>http://lmshows.se/iz.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>http://images4.fanpop.com/image/photos/21000000/invader-zim-invader-zim-21096608-1280-800.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 King of the Hill</title>
+<link>http://veetle.com/index.php/hls/streamMbrfast/4f9436ece56e2_/stream.m3u8</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BODI0OTc1MTAxM15BMl5BanBnXkFtZTcwNjYxNzYxMQ@@._V1_UY268_CR6,0,182,268_AL_.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Adult Swim</title>
+<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
+<thumbnail>http://www.twcmedia.com/uploadedImages/SharedContent/Smartforms/Network/as_athf_TWC.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Toonami</title>
+<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://theboyz.comli.com/goodfellas/icons/toonami.png</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/toonami.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Drake & Josh</title>
+<sportsdevil>http://lmshows.se/dj.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>http://images2.fanpop.com/image/photos/8500000/drake-and-josh-drake-bell-8558204-1280-1024.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 Family Guy</title>
+<sportsdevil>http://www.ibrod.tv/familyguy.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/familyguy.html</referer>
+<thumbnail>http://magazine.100percentrock.com/wp-content/uploads/2013/01/Family-Guy.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Samurai Jack</title>
+<sportsdevil>http://lmshows.se/dd.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>http://4.bp.blogspot.com/_u5FK0DjeH98/THFbJI3n3uI/AAAAAAAAA88/O68K7rZTjTA/s1600/samurai_jack.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24/7 The Flinstones</title>
+<sportsdevil>http://www.ibrod.tv/flintstones.html</sportsdevil>
+<referer>referer=http://www.ibrod.tv/flintstones.html</referer>
+<thumbnail>http://3.bp.blogspot.com/_y1KvUJ_yEys/TKQy0ynm_RI/AAAAAAAAAS8/dQlOQU5-oFI/s1600/flintstones+promo+art+circa+75+small.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>24-7 Regular Show</title>
+<sportsdevil>http://lmshows.se/sj.php</sportsdevil>
+<referer>referer=http://lmshows.se/</referer>
+<thumbnail>http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i33/regular-show_picture_rigby_3_1280x1024.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

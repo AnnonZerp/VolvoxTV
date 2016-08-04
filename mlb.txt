@@ -1,0 +1,31 @@
+<item>
+<title>First Row Sports eu</title>
+<link>egnorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dBaseball%26url%3dhttp%253A%252F%252Fwww.feed2allnow.eu%252Ftype%252Fbaseball.html%26cfg%3dfirstrowsports.eu.links.cfg%26definedIn%3dlivesports%252Ffirstrowsports.eu.cfg%26director%3dFirstRowSports.eu%26genre%3dLive%2bSports%26type%3drss%26icon%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FBaseball.png&amp;mode=1</jsonrpc>
+<thumbnail>http://www.firstrowsports.press/first%20row%20sports.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>First Row Sports ge</title>
+<link>egnorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dBaseball%26url%3dhttp%253A%252F%252Ffirstrowsports.ge%252Findex.php%253Fgame%253Dbaseball%26cfg%3dfirstrowsports.ge.links.cfg%26definedIn%3dlivesports%252Ffirstrowsports.ge.cfg%26director%3dFirstRowSports.ge%26genre%3dLive%2bSports%26type%3drss%26icon%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FBaseball.png&amp;mode=1</jsonrpc>
+<thumbnail>http://www.firstrowsports.press/first%20row%20sports.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>LiveTV.RU</title>
+<link>egnorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=count.tmp%3d5%26title.tmp%3dBaseball%26ticon.tmp%3dhttp%253A%252F%252Fcdn.livetvcdn.net%252Fimg%252Fsport%252F19.gif%26url%3dhttp%253A%252F%252Flivetv101.net%252Fen%252Fallupcomingsports%252F19%252F%26cfg%3dlivetv.ru.videos.cfg%2540CATEGORY%254019%26definedIn%3dlivesports%252Flivetv.ru.cfg%26director%3dLiveTV.ru%26id.tmp%3d19%26referer%3dhttp%253A%252F%252Flivetv101.net%252Fen%252Fallupcoming%26genre%3dLive%2bSports%26title%3dBaseball%2b%25285%2529%26icon.tmp%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FBaseball.png%26type%3drss%26icon%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FBaseball.png&amp;mode=1</jsonrpc>
+<thumbnail>http://cdn.livetvcdn.net/img/logo_en.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Sports Galore</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=Paktv%20sports&amp;url=sss</jsonrpc>
+<thumbnail>https://d15mj6e6qmt1na.cloudfront.net/files/images/2302/3012/SPORTS_GALORE_1400x1400.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

@@ -1,0 +1,240 @@
+<item>
+<title>Weed</title>
+<utube>kOjy1W5tYDE</utube>
+<thumbnail>http://media.vocativ.com/photos/2015/01/Weed-Dispensary-Ban-051714975000.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Prison The War</title>
+<utube>XXoPnuKMb5M</utube>
+<thumbnail>https://lh3.googleusercontent.com/B4C7emqcQm_J_-fONTYrWm5ZdVKruagK8ddLkS8QrhYfEl9plWyMK8AZGWCNoRW-X68TsJXWWaUNEDbLlQWdc31zRHsCCGPvj4ZKGcRxROPb78E0W-uQ7ZK_</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Scam Artists</title>
+<utube>5d2cWWraP2c</utube>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/59/5f/ae/595fae955dc24d4584f013dfbdd7d1d6.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+
+<item>
+<title>Detroit Music history</title>
+<utube>q8FZf4cfyEM</utube>
+<thumbnail>http://langfieldentertainment.com/images/MAY%202011/eminem-studio-dr-dre-relapse.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/q8FZf4cfyEM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Detroit Mafia Past and Present</title>
+<utube>wIjGODK0Wjo</utube>
+<thumbnail>http://alprofit.com/wp-content/uploads/2015/01/Detroit-Mob-Confidential-360x210.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/3BuvTJ6IQhw/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Detroit bankruptcy</title>
+<utube>RjMXFOMhbeQ</utube>
+<thumbnail>http://www.escapeartist.com/ecuador/wp-content/uploads/sites/10/2014/07/Bankrupt.jpg</thumbnail>
+<fanart>http://www.thenation.com/wp-content/uploads/2015/04/detroit_bankruptcy_rtr_img.jpg</fanart>
+</item>
+
+<item>
+<title>Frank Matthews</title>
+<utube>HUHoKzcyka0</utube>
+<thumbnail>http://api.ning.com/files/BykvwnNi9LtvsLBglWEHwGShIQYhmYbHSLUr59*fFmmB*Ai5-1xHcNcNJcyx1ekWFh*w-77lfOslFG0IOt0vW1gI3vv4ex5O/81RRiGy2FeL._SL1500_.jpg?width=500</thumbnail>
+<fanart>http://www.frankmatthewsbook.com/images/homepage-slideshow/1.jpg</fanart>
+</item>
+
+<item>
+<title>The Real Goodfella</title>
+<utube>5RoFmHR8S3Y</utube>
+<thumbnail>http://genregiants.com/wp-content/uploads/2015/02/The-Real-Goodfella-Henry-Hill-Documentary-Genre-Giants.jpg</thumbnail>
+<fanart>http://tvblogs.nationalgeographic.com/files/2012/06/TheRealGoodfella_11_LockedUpAbroadV.jpg</fanart>
+</item>
+
+<item>
+<title>Real Gangs of New York City</title>
+<utube>8TJrsJkzwZ0</utube>
+<thumbnail>http://static6.businessinsider.com/image/50461169ecad04ef120000ad/from-get-touched-boyz-of-jamaica-to-the-oww-oww-gang-here-are-the-names-of-all-300-youth-crews-in-new-york.jpg</thumbnail>
+<fanart>https://newslang89.files.wordpress.com/2013/03/gangsofnewyork5.jpg</fanart>
+</item>
+
+<item>
+<title>Motown Mafia Detroit </title>
+<utube>tC_AlOuRyBw</utube>
+<thumbnail>http://dwpmultimedia.com/wp-content/uploads/2013/07/metrodet_mafia_logo_web.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/avKtYj4UNt4/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>AFGHANISTAN’S DRUG WAR</title>
+<link>https://vimeo.com/129189598</link>
+<thumbnail>http://www.ips-dc.org/wp-content/uploads/2012/08/drug-war-afghanistan.jpg</thumbnail>
+<fanart>http://blogs.r.ftdata.co.uk/photo-diary/files/2013/05/opium.jpg</fanart>
+</item>
+
+<item>
+<title>Thailand’s crazy drug</title>
+<link>https://vimeo.com/77852738</link>
+<thumbnail>http://onlinekhobor.com/english/wp-content/uploads/2014/08/50000-Yaba-tablets-recovered-in-Teknaf.jpg</thumbnail>
+<fanart>http://media.gettyimages.com/photos/drug-jail-in-thailand-in-2005same-thai-drug-dealer-and-the-drug-with-picture-id113981802</fanart>
+</item>
+
+<item>
+<title>BAJA SMUGGLERS</title>
+<link>https://vimeo.com/71453658</link>
+<thumbnail>http://cdn.topdocumentaryfilms.com/wp-content/uploads/2013/08/baja-smugglers.jpg</thumbnail>
+<fanart>https://static01.nyt.com/images/2013/08/27/automobiles/wheels/Baja-Smugglers-slide-XHH7/Baja-Smugglers-slide-XHH7-jumbo.jpg</fanart>
+</item>
+
+<item>
+<title>Crystal Meth</title>
+<utube>lHW940xrwas</utube>
+<thumbnail>http://orig06.deviantart.net/43e0/f/2013/200/c/7/breaking_bad_by_disent_by_disent-d6e6is5.jpg</thumbnail>
+<fanart>http://i.imgur.com/xuvGxmR.jpg</fanart>
+</item>
+
+<item>
+<title>World's Scariest Drug</title>
+<utube>ToQ8PWYnu04</utube>
+<thumbnail>http://www.theplaidzebra.com/wp-content/uploads/2015/05/1_world%E2%80%99s-dangerous-drug-750x400.jpg</thumbnail>
+<fanart>http://smokinggunpr.co.uk/wp-content/uploads/2014/09/vice-logo.jpg</fanart>
+</item>
+
+<item>
+<title>Heroin island nyc</title>
+<utube>TgnOv_wAyfk</utube>
+<thumbnail>https://image.tmdb.org/t/p/w396/2DItVJd5W9MzQ4PQne8c5ROG9Yk.jpg</thumbnail>
+<fanart>http://media-channel.nationalgeographic.com/media/uploads/photos/content/photo/2015/10/22/Overview_3.jpg</fanart>
+</item>
+
+<item>
+<title>Americas Hardest Prisons</title>
+<utube>2BF1OxZI1hM</utube>
+<thumbnail>http://pxhst.co/avaxhome/bd/91/001191bd_medium.jpeg</thumbnail>
+<fanart>http://cdn.natgeotv.com.au/shows/thumbnails/AmericasHardestPrisons.jpg?scale=both&width=1920&height=960&mode=crop</fanart>
+</item>
+
+<item>
+<title>Aussie ice wars</title>
+<utube>rnRb7CiuCZE</utube>
+<thumbnail>https://i.ytimg.com/vi/9-TVJmX6zQs/hqdefault.jpg</thumbnail>
+<fanart>http://media-channel.nationalgeographic.com/media/uploads/photos/content/photo/2015/10/22/Overview_6.jpg</fanart>
+</item>
+
+<item>
+<title>Detroit’s Drug Lords</title>
+<utube>W9W5hy83V6k</utube>
+<thumbnail>http://channel.nationalgeographic.com/exposure/content/photo/photo/2089299_315_fcbx4bvtbl42sqjuc5xb3iuge4oxpy7q62c4u66siw3t6qwph3oq_757x567.jpg</thumbnail>
+<fanart>https://s3.amazonaws.com/tribeca_cms_production/uploads/uploads/image/gallery_image/518a73327f32cdaa06000003/3_DetroitDealer_A004_C043_0117MJ.jpg</fanart>
+</item>
+
+<item>
+<title> Ross Kemp 1 </title>
+<utube>2QXMk-afHeQ</utube>
+<thumbnail>http://cdn0.documentaryheaven.com/wp-content/thumbnails/9556-770x433.jpg</thumbnail>
+<fanart>http://cdn1.matadornetwork.com/blogs/1/2014/05/18th-street-gang-M-18.jpg</fanart>
+</item>
+
+<item>
+<title> Ross Kemp Afghan 1 </title>
+<utube>egdJbXmuxKM</utube>
+<thumbnail>https://www.penguin.com.au/jpg-large/9780141040882.jpg</thumbnail>
+<fanart>https://www.penguin.com.au/jpg-large/9780141040882.jpg</fanart>
+</item>
+
+<item>
+<title> Ross Kemp Afghan 2 </title>
+<utube>lgAGI5KAbfc</utube>
+<thumbnail>https://www.penguin.com.au/jpg-large/9780141040882.jpg</thumbnail>
+<fanart>https://www.penguin.com.au/jpg-large/9780141040882.jpg</fanart>
+</item>
+
+<item>
+<title> Ross Kemp Afghan 3 </title>
+<utube>BXdZEFbu8Rc</utube>
+<thumbnail>https://www.penguin.com.au/jpg-large/9780141040882.jpg</thumbnail>
+<fanart>https://www.penguin.com.au/jpg-large/9780141040882.jpg</fanart>
+</item>
+
+<item>
+<title> Ross Kemp Afghan 4 </title>
+<utube>_VYmLT8tZS8</utube>
+<thumbnail>https://www.penguin.com.au/jpg-large/9780141040882.jpg</thumbnail>
+<fanart>https://www.penguin.com.au/jpg-large/9780141040882.jpg</fanart>
+</item>
+
+<item>
+<title> Miami's Most Violent </title>
+<utube>4tZOp577O6I</utube>
+<thumbnail>https://cdn1.vox-cdn.com/thumbor/18t_ja5ISSXCHBa9L3jOYomlUqU=/0x2035:4499x4566/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/45852150/Hotline_Miami_2_-_Key_Art_No_Logo.0.0.jpg</thumbnail>
+<fanart>https://cdn1.vox-cdn.com/thumbor/18t_ja5ISSXCHBa9L3jOYomlUqU=/0x2035:4499x4566/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/45852150/Hotline_Miami_2_-_Key_Art_No_Logo.0.0.jpg</fanart>
+</item>
+
+<item>
+<title> Gangs of New York </title>
+<utube>7GXMSYTRlPU</utube>
+<thumbnail>http://myfonts-wtf.s3.amazonaws.com/1d/1d9ee36d96a25b2bad52c20b0d32dbcf.661089.png</thumbnail>
+<fanart>https://everythingsoulful.com/wp-content/uploads/2016/03/RUBBLE-KINGS-1-1500x936.jpeg</fanart>
+</item>
+
+<item>
+<title> LA Gangs </title>
+<utube>rkc3XAHQwDk</utube>
+<thumbnail>https://media.npr.org/assets/news/2010/01/22/gangtour_wide-99bbe830c86509b40f14f5c35401a4cb15bf310b.jpg?s=1400</thumbnail>
+<fanart>https://media.npr.org/assets/news/2010/01/22/gangtour_wide-99bbe830c86509b40f14f5c35401a4cb15bf310b.jpg?s=1400</fanart>
+</item>
+
+<item>
+<title> San Antonio Ganga </title>
+<utube>59lgwpotuhI</utube>
+<thumbnail>http://us-news.us/wp-content/uploads/2015/09/wpid-1229_1391199973.jpg</thumbnail>
+<fanart>https://i.vimeocdn.com/video/452528084_1280x960.jpg</fanart>
+</item>
+
+<item>
+<title>Gangs in Prison</title>
+<utube>mm33KFH4m8E</utube>
+<thumbnail>http://www.natgeocreative.com/comp/04/344/1389664.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/ao256R-02Io/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Chapo CEO of Crime</title>
+<utube>Xfz-1Az0qp4</utube>
+<thumbnail>http://i2.ytimg.com/vi/Xfz-1Az0qp4/0.jpg</thumbnail>
+<fanart>http://remezcla.com/wp-content/uploads/2015/07/chapos.jpg</fanart>
+</item>
+
+<item>
+<title>Drugs Inc bangkok ice</title>
+<utube>SHQ6IGSUNGY</utube>
+<thumbnail>https://i.ytimg.com/sh/519OUlIUsO4/showposter.jpg</thumbnail>
+<fanart>http://img0.gtsstatic.com/wallpapers/d2512caf1702b31c9123d860b99537f5_large.jpeg</fanart>
+</item>
+
+<item>
+<title>Gambling And Drugs</title>
+<utube>EjxPV4YHZeA</utube>
+<thumbnail>http://www.halsburyslawexchange.co.uk/wp-content/uploads/sites/25/2012/01/drugs-offences-e1327942543789.jpg</thumbnail>
+<fanart>http://cdn.breitbart.com/mediaserver/Breitbart/Breitbart-London/2014/07/11/Las-Vegas-Strip-7884-TS-S1.jpg</fanart>
+</item>
+
+<item>
+<title> Chicago Gangs </title>
+<utube>eDDciW-slTs</utube>
+<thumbnail>http://i47.tinypic.com/25qvmee.jpg</thumbnail>
+<fanart>http://i47.tinypic.com/25qvmee.jpg</fanart>
+</item>
+
+<item>
+<title>Japan's Biker Gangs</title>
+<utube>xMpZLrODd3k</utube>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/07/2a/06/072a0659193f7567d214b813a8cedcae.jpg</thumbnail>
+<fanart>http://cache.mrporter.com/journal-images/production/f80447b7-ed00-4212-8505-0a1f59d8dc53</fanart>
+</item>

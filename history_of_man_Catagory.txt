@@ -1,0 +1,238 @@
+<item>
+<title>OUR BEGINNING</title>
+<utube>Kw0vLLTB3Q0</utube>
+<thumbnail>http://www.globalmensgroup.com/wp-content/uploads/2014/06/In-the-Beginning-Circle-of-Stars.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>World War II</title>
+<utube>PLThJL6qur31RyjfngP-bsChUQfJqAZYwJ</utube>
+<thumbnail>http://jolietlibrary.org/sites/default/files/Pathfinders/world-war-ii-banner.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Cold War 1917-1945 Documentary HD</title>
+<utube>PLThJL6qur31QMzUrR6VVZCEMAwmb6fq3u</utube>
+<thumbnail>http://i0.wp.com/activehistory.co.uk/updates/wp-content/uploads/2016/01/Cold_War_TV_Series_CNN-219x300.jpg?resize=350%2C200</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+
+<item>
+<title>AK-47 Kalashnikov</title>
+<utube>uCKstic6mDU</utube>
+<thumbnail>http://www.abc.net.au/cm/lb/5173436/data/armed-iraqi-shiite-militiamen-data.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Man On The Moon</title>
+<utube>7dzXuqrH_oo</utube>
+<thumbnail>http://www.findingdulcinea.com/docroot/dulcinea/fd_images/news/on-this-day/July-August-08/On-this-Day--Neil-Armstrong-Is-First-Man-to-Walk-on-the-Moon/news/0/image.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Untold Story</title>
+<utube>z3zTu7h16v8</utube>
+<thumbnail>https://i.ytimg.com/vi/e-VlIu8w46Y/maxresdefault.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+
+<item>
+<title>Dirty Wars</title>
+<utube>xAdQ5SUg6b0</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Dirty_Wars_film_poster.jpg/220px-Dirty_Wars_film_poster.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Cold War 1948</title>
+<utube>xwJJfJdWXeI</utube>
+<thumbnail>http://www.ilnprints.co.uk/images/M/MILNG006283.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Ancient City Rome</title>
+<utube>NNzhTE6ibQA</utube>
+<thumbnail>https://i.ytimg.com/vi/XfwBBB8YOvk/hqdefault.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+
+<item>
+<title>Peoples of Europe History</title>
+<utube>Q4cQJDMlSJw</utube>
+<thumbnail>http://www.dhr.history.vt.edu/modules/eu/images/fp_bkg_middle.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Q4cQJDMlSJw/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Egyptian Pyramids </title>
+<utube>rcKahraBiBY</utube>
+<thumbnail>https://c1.staticflickr.com/9/8735/16344178454_d00a9ca7d8_b.jpg</thumbnail>
+<fanart>http://www.hdwallpapers.in/walls/egypt_pyramids-wide.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>Lost City of Stone HD</title>
+<utube>bAFnRZ8kq70</utube>
+<thumbnail>http://idents.org/lightbox/nteyeBIG.jpg</thumbnail>
+<fanart>http://www.greenandturquoise.com/wp-content/uploads/2016/01/Petra-Day-Trip-Lost-City-1500x1000.jpg</fanart>
+</item>
+
+<item>
+<title>HISTORY OF THE FREEMASONS</title>
+<utube>1EYHlfRhxfc</utube>
+<thumbnail>http://download.4-designer.com/files/20130906/Leonardo-da-Vinci-manuscript-48421.jpg</thumbnail>
+<fanart>http://www.pinwire.com/wp-content/gallery/freemason-masonic-wallpaper/da_vinci_masonic-wallpaper-widescreen-quote.jpg</fanart>
+</item>
+
+
+<item>
+<title>Secrets of the Samurai Sword HD </title>
+<utube>JIas9x_RLo4</utube>
+<thumbnail>https://i.ytimg.com/vi/ZmTFYRZRYPY/hqdefault.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/01/19/30317/big_thumb_759f74a49e789440a3e37b30a59f3bff.jpg</fanart>
+</item>
+
+<item>
+<title>Warrior Ancient Swords</title>
+<utube>Ojo-TLZp8tE</utube>
+<thumbnail>https://taichinotebook.files.wordpress.com/2016/04/47-ronin-samurai-warrior-1152x864.jpg?w=676</thumbnail>
+<fanart>http://revelwallpapers.net/d/7659714E69465F6C38754F736F5936517457366373644F6C7074754C61413D3D/the-witcher-3-wild-hunt-warrior-armor-sword-sapkowski-game.jpg</fanart>
+</item>
+
+<item>
+<title>China's Mysterious Pyramids</title>
+<utube>uoytI2phjls</utube>
+<thumbnail>http://i0.wp.com/listverse.com/wp-content/uploads/2013/05/mausoleum-of-first-qin-emperor_28012_600x450.jpg?resize=632%2C474</thumbnail>
+<fanart>http://2.bp.blogspot.com/-U9t4HlcYfUc/VBl_2ZAo9SI/AAAAAAAAN04/3sGooA2lTgg/s1600/000-pyramid.jpg</fanart>
+</item>
+
+<item>
+<title>Secrets of Noah's Ark</title>
+<utube>-sbhZVdSZ1M</utube>
+<thumbnail>http://wptschedule.org/ulphoto/wpt_1352223675.jpg</thumbnail>
+<fanart>https://wallpaperscraft.com/image/evan_almighty_noah_savior_man_animals_ark_creatures_old_elder_18032_3840x2160.jpg</fanart>
+</item>
+
+<item>
+<title>Quest for Solomon’s Mines</title>
+<utube>3NDhNT_KFtY</utube>
+<thumbnail>http://www-tc.pbs.org/wgbh/nova/assets/img/posters/quest-solomons-mines-vi.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/4/43/'The_Visit_of_the_Queen_of_Sheba_to_King_Solomon',_oil_on_canvas_painting_by_Edward_Poynter,_1890,_Art_Gallery_of_New_South_Wales.jpg</fanart>
+</item>
+
+<item>
+<title>Islam Great Relevance</title>
+<utube>ooivODg_jg8</utube>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/37/32/96/37329644de5ca448c0b192f30f2e955e.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/H0ob2xn4THI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Kingdoms of Africa 1</title>
+<utube>MO-yd3JxP-g</utube>
+<thumbnail>http://cdn.muslimmatters.org/wp-content/uploads/sonni-ali-1.jpg</thumbnail>
+<fanart>http://www.borongaja.com/data_images/out/17/637212-the-kingdom-of-morocco.jpg</fanart>
+</item>
+
+<item>
+<title>Kingdoms of Africa 2</title>
+<utube>Gh8obeUSz94</utube>
+<thumbnail>http://photos1.blogger.com/blogger/7016/3128/400/kings_1.jpg</thumbnail>
+<fanart>http://www.borongaja.com/data_images/out/17/637212-the-kingdom-of-morocco.jpg</fanart>
+</item>
+
+<item>
+<title>Kingdoms of Africa 3</title>
+<utube>Gh8obeUSz94</utube>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/0f/0f/d2/0f0fd23e4bc04de2b20199672bf7f04c.jpg</thumbnail>
+<fanart>http://www.borongaja.com/data_images/out/17/637212-the-kingdom-of-morocco.jpg</fanart>
+</item>
+
+<item>
+<title>Kingdoms of Africa 4</title>
+<utube>Je0K0BAJ1hY</utube>
+<thumbnail>https://lh3.googleusercontent.com/woa4_HYzkJxfkuz9B6BtMbYVlYYe55dcxo2ga3vc4hPssbMqVeJYmIZQCc5vtcUzax2T=h900</thumbnail>
+<fanart>http://www.borongaja.com/data_images/out/17/637212-the-kingdom-of-morocco.jpg</fanart>
+</item>
+
+<item>
+<title>Guns and Steel 1 </title>
+<utube>QwZ4s8Fsv94</utube>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/32/57/21/325721cd98f12848ea5877fb0b660cfa.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/pIyGB3N_LAM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Guns and Steel 2</title>
+<utube>iR8OaVDB3_E</utube>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/32/57/21/325721cd98f12848ea5877fb0b660cfa.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/pIyGB3N_LAM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Guns and Steel 3</title>
+<utube>opZD8237rJ8</utube>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/32/57/21/325721cd98f12848ea5877fb0b660cfa.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/pIyGB3N_LAM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Civilian Conservation Corps</title>
+<link>https://vimeo.com/150192017</link>
+<thumbnail>http://www.devilsden.org/images/dd-ccclogo.gif</thumbnail>
+<fanart>https://acontinuouslean.files.wordpress.com/2009/02/ccc_2.jpg</fanart>
+</item>
+
+<item>
+<title>Guerrilla The Taking of Patty Hearst</title>
+<link>https://vimeo.com/150113243</link>
+<thumbnail>http://www.flashesandflames.com/wp-content/uploads/2013/12/PattyHearst-227x300.jpg</thumbnail>
+<fanart>http://wallpaperbeta.com/wallpaper_1280x800/partizan_the_capture_of_patty_hearst_rise_and_1280x800_hd-wallpaper-7752.jpg</fanart>
+</item>
+
+
+<item>
+<title>Who Built Stonehenge?</title>
+<utube>yP2DlTwQuIY</utube>
+<thumbnail>http://cdn.history.com/sites/2/2015/04/hith-stonehenge-superhenge-iStock_000012937253Large-E.jpeg</thumbnail>
+<fanart>http://d195zpdxad0ld.cloudfront.net/media/W1siZiIsIjIwMTIvMDUvMjUvMTVfMDVfMjhfNjkwX1N0b25laGVuZ2VfYXRfZGF3bi5qcGciXSxbImUiLCJqcGciLCItcXVhbGl0eSA2MCJdLFsicCIsInN0cmlwIl1d/Stonehenge%20at%20dawn.jpg</fanart>
+</item>
+
+<item>
+<title>Lost City of Atlantis </title>
+<utube>MScbhEYUgB0</utube>
+<thumbnail>http://www.traveljournals.net/pictures/l/29/291271-poseidon-statue-near-the-harbor-copenhagen-denmark.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/jU11bP9MChI/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>The Da Vinci Shroud</title>
+<utube>TfMTinoQxCA</utube>
+<thumbnail>https://uglyduckblog.files.wordpress.com/2014/05/tvyamnb-bivtnwcoxtkc5xgbugkimh_nj4ujhqkuorjnqhjdt8hzdnru6wuhgftak4ds4pcv04wueq.jpeg</thumbnail>
+<fanart>https://i.ytimg.com/vi/1_jqe8V6e4o/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>Albert Einstein</title>
+<utube>OBmP_7k2h_4</utube>
+<thumbnail>https://hindimerijaan.files.wordpress.com/2015/07/wpid-wp-1436088876899.png</thumbnail>
+<fanart>https://hindimerijaan.files.wordpress.com/2015/07/wpid-wp-1436088876899.png</fanart>
+</item>
+
+<item>
+<title>Inside Einstein's Mind</title>
+<utube>Z4GWtFTXkCI</utube>
+<thumbnail>https://i.ytimg.com/vi/vk3KrP5F1Ao/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z4GWtFTXkCI/maxresdefault.jpg</fanart>
+</item>

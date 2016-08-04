@@ -1,0 +1,394 @@
+<item>
+<title>San Diego: ULTRA HD CAM & TIME-LAPSE, LIVE BEACH AND SURF CAM</title>
+<link>http://edge08.hdontap.com/ingest03-hdontap/delmar4k_hdontap.stream/chunklist_w1920861567.m3u8</link>
+<thumbnail>http://hdontap.com/images/uploads/gallery_images/186/delmar4.jpeg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Biscayne Bay Cam - Cam TV - Miami - FL Florida</title>
+<link>http://video4.earthcam.com/fecnetwork/miamivishd4.flv/playlist.m3u8</link>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<thumbnail>http://costedelsud.it/webcam/webcam-image/Biscayne-Bay-Cam-Miami.jpg</thumbnail>
+</item>
+
+<item>
+<title>Downtown Miami Cam - Cam TV - Miami - FL Florida</title>
+<link>http://video4.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8</link>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<thumbnail>http://costedelsud.it/webcam/webcam-image/Bayfront-Park-Cam.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Live EarthQuake Monitor Cam[/COLOR]</title>
+<utube>PtOiyv5Fg-0</utube>
+<thumbnail>https://co2insanity.files.wordpress.com/2011/04/iris-quake-monitor-screenshot.png</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg<fanart>
+</item>
+
+<item>
+<title>WTWO Cam 1 - 36 DT - Terre Haute - IN Indiana</title>
+<link>rtmp://wms-east2.wetmet.net/live/174-01-01</link>
+<thumbnail>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>WTWO Cam 2 - 36 DT - Terre Haute - IN Indiana</title>
+<link>rtmp://wms-east2.wetmet.net/live/174-02-01</link>
+<thumbnail>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</thumbnail>
+<fanart>http://theboyz.comli.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>SPACE STATION LIVE 2</title>
+<link>http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/6IP-Tx6yZIs/maxresdefault.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Kevin's Bar Stage Cam Ireland</title>
+<link>http://52.2.51.240:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8</link>
+<thumbnail>http://www.marylandlowrates.com/irishkevins/irish_kevins_logo300.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Shooners Hill Bar Cam </title>
+<link>http://media5.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/playlist.m3u8</link>
+<thumbnail>http://www.tripsmarter.com/sites/default/files/styles/640x360/public/BTV5797_0.jpg?itok=Cpf5GuLD</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Schooners Sunset Cam</title>
+<link>http://media3.tripsmarter.com:1935/schoonerssunsetHDCam392023487563/schsun/playlist.m3u8</link>
+<thumbnail>http://www.tripsmarter.com/sites/default/files/styles/640x360/public/BTV5797_0.jpg?itok=Cpf5GuLD</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Schooners Beach Cam</title>
+<link>http://media5.tripsmarter.com:1935/schoonersbeachHDCam830294711349/schbeach/playlist.m3u8</link>
+<thumbnail>http://www.tripsmarter.com/sites/default/files/styles/640x360/public/BTV5797_0.jpg?itok=Cpf5GuLD</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>HOG CAM: BAR CAM</title>
+<link>http://wse1.resortcams.com/live-audio/hogsbreath1.stream_aac/chunklist_w724646456.m3u8</link>
+<thumbnail>http://images.placesonline.com/photos/35723_key_west_hog__s_breath_saloon.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>HOG CAM: STAGE CAM</title>
+<link>http://wse1.resortcams.com/live-audio/hogsbreath3.stream_aac/chunklist_w1648735925.m3u8</link>
+<thumbnail>http://images.placesonline.com/photos/35723_key_west_hog__s_breath_saloon.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>HOG CAM: RAW BAR CAM</title>
+<link>http://wse1.resortcams.com/live-audio/hogsbreath2.stream_aac/chunklist_w525356904.m3u8</link>
+<thumbnail>http://images.placesonline.com/photos/35723_key_west_hog__s_breath_saloon.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Carbon Tv: Crush with Lee & Tiffany Deer Day Cam[/COLOR]</title>
+<link>http://vod.livestream.com/events/000000000024f18c/46263132-d4ae-4bc3-9bc9-0fb599e09324_646.m3u8?token=0_6a98dc99_a35dd911ff5d10ccd161e7ec2078211f39d57153</link>
+<externallink></externallink>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<thumbnail>http://cdn.carbontv.com/app/webroot/files/assets/cams/preview_image/5/cb_1412085836_Deer_cam_V2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Carbon Tv: Crush with Lee & Tiffany Deer Night Cam[/COLOR]</title>
+<link>http://api.new.livestream.com/accounts/5551581/events/2421132/videos/42604632.m3u8</link>
+<externallink></externallink>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<thumbnail>http://cdn.carbontv.com/app/webroot/files/assets/cams/preview_image/5/cb_1412085836_Deer_cam_V2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Carbon Tv: Eagle Night Cam[/COLOR]</title>
+<link>http://pmdlive-a.akamaihd.net/dc-1/m/ny-live-publish102/kLive/smil:1_gffgxm38_all.smil/playlist.m3u8?DVR</link>
+<externallink></externallink>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+<thumbnail>http://media-cache-ec0.pinimg.com/736x/75/4f/e2/754fe254a90d7c90be7d6b2e8aee3b4f.jpg</thumbnail>
+</item>
+
+<item>
+<title>Monterey Bay Aquarium's Open Sea cam</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/9600798/streams/live/playlist.m3u8</link>
+<thumbnail>http://baymonte.org/wp-content/uploads/2012/03/MontereyBayAquarium.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>RUS-St Petersburg 1</title>
+<link>http://vpiter.tv:8083/camera1/h264</link>
+<thumbnail>http://www.fonipon.com/userfiles/image/A%C4%9EUSTOS/saint-petersburg-11.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Hong Kong Bar Cam</title>
+<link>mms://live.camstreams.com/cssolowongHONGKONG</link>
+<thumbnail>http://travelourplanet.com/wp-content/uploads/2014/06/Harlans-Bar-Hong-Kong.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Fat Cat Gourmette To Go Cam</title>
+<link>http://fatcam.dyndns.org/mjpg/video.mjpg</link>
+<thumbnail>https://www.godine.co.uk/assets/restaurant/51/Image/8818_-fat-cat-nottingham-image-9.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Oberndorf: Open air music hall Cam</title>
+<link>http://195.149.217.85/mjpg/video.mjpg</link>
+<thumbnail>http://www.runnersfun.com/typo3temp/pics/565a72be05.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Rio de Janeiro: LAPA R. do Lavradio Outside bar area</title>
+<link>http://dbf6sdh8380g7.cloudfront.net/7dias/rav-006.stream/playlist.m3u8</link>
+<thumbnail>https://c1.staticflickr.com/5/4124/4968140628_5b7ff394ab_z.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Mallory Square Cam, Key West</title>
+<link>http://wowza.floridakeysmedia.com:8090/mallorysquare/mallorysquare.stream/playlist.m3u8</link>
+<thumbnail>http://www.wdwinfo.com/Photos/Key-West/images/Mallory-Square-01.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Key West Sunset Cam</title>
+<link>http://wowza.floridakeysmedia.com:8090/sunset/sunset.stream/playlist.m3u8</link>
+<thumbnail>http://static.panoramio.com/photos/large/10649020.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Sunset Pier, Ocean Key Resort</title>
+<link>http://wowza.floridakeysmedia.com:8090/oceankeyptz/oceankeyptz.stream/playlist.m3u8</link>
+<thumbnail>http://www.oceankey.com/App_Data/MediaFiles/3/C/A/%7B3CA124B1-0C37-48AF-979E-E4AD059256C2%7DMOBILE-subpages_large-pier.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Ocean Key, Sunset Pier Cam 2</title>
+<link>http://wowza.floridakeysmedia.com:8090/oceankeypier/oceankeypier.stream/playlist.m3u8</link>
+<thumbnail>http://ww1.prweb.com/prfiles/2006/09/18/439302/OKR.PierandTables.LiveRGB.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Green Parrot Bar</title>
+<link>http://wse1.resortcams.com/live/greenparrot1-audio.stream/playlist.m3u8</link>
+<thumbnail>http://images.fineartamerica.com/images-medium-large/green-parrot-bar-jd-ollis.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Live Duval Street</title>
+<link>http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/playlist.m3u8</link>
+<thumbnail>http://floridakeyswebcams.tv/sloppycam/camarchive/2212.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Outside Sloppy Joe's Bar: Florida Keys Cam</title>
+<link>http://wowza2.floridakeysmedia.com:1935/crowdcam/crowdcam.stream/playlist.m3u8</link>
+<thumbnail>https://img0.etsystatic.com/000/0/6784048/il_fullxfull.328015440.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>News Cafe Miami Cam</title>
+<link>http://video4.earthcam.com:1935/fecnetwork/6175.flv/playlist.m3u8</link>
+<thumbnail>http://www.deejayavesh.co.za/wp-content/uploads/2013/11/news_cafe.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Tusto Pizza, Pizza Area Cam</title>
+<link>http://46.28.111.70:9092/stream.flv</link>
+<thumbnail>http://pizzeria-buongusto.de/images/bg-img4.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Tusto Pizza, kitchen Area Cam</title>
+<link>http://46.28.111.70:9091/stream.flv</link>
+<thumbnail>http://pizzeria-buongusto.de/images/bg-img4.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>West Valley, Utah</title>
+<link>http://205.124.147.71/mjpg/video.mjpg</link>
+<thumbnail>http://mw2.google.com/mw-panoramio/photos/medium/31925747.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>The Algonquin Restaurant Pier Cam</title>
+<link>http://webcam.thealgonquin.com:8080/mjpg/video.mjpg</link>
+<thumbnail>http://www.thealgonquin.com/images/photo-spring2013v2.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Club Playground Cyber Cafe Russia Cam</title>
+<link>http://212.42.54.137:8008/mjpg/video.mjpg</link>
+<thumbnail>http://video-club-orthez64.e-monsite.com/medias/images/logo-cyber-club-3.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Block House, Spain: Inside a Steak house Malaga</title>
+<link>http://80.35.39.213:8000/mjpg/video.mjpg</link>
+<thumbnail>http://media-cache-ak0.pinimg.com/736x/8f/d1/48/8fd1489471e9b2798aa41be3c32a95b4.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>The OD Pavilion's Web Cam, South Carolina</title>
+<link>http://wse1.resortcams.com/live/odpavilion.stream/playlist.m3u8</link>
+<thumbnail>http://bloximages.newyork1.vip.townnews.com/mbvisit.com/content/tncms/assets/v3/editorial/9/b2/9b263dee-ab38-11e1-9ffc-0019bb30f31a/4fc793dd0c648.preview-300.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>WindJammer Club, Isle Of Palms</title>
+<link>http://wse1.resortcams.com/live/odpavilion.stream/chunklist_w1425191822.m3u8</link>
+<thumbnail>http://www.27palms.com/wp-content/uploads/2013/06/windjammer.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>MetroClub from Ukraine Lviv</title>
+<link>http://camera.nton.lviv.ua/mjpg/video.mjpg</link>
+<thumbnail>http://www.tiagoteejay.com/uploads/1/1/7/6/11760960/4605818_orig.jpg</thumbnail>
+<fanart>http://www.goodfellasteam.com/goodfellas/fanart/goodfellas.jpg</fanart>
+</item>
+
+<item>
+<title>Shop in Iasi, Romania</title>
+<link>http://188.27.238.20:80/anony/mjpg.cgi</link>
+<thumbnail>http://bturn.com/wp-content/uploads/2011/12/Iasi-Romania.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Broadcast Studio Of WWCU FM At Western Carolina University</title>
+<link>http://152.30.169.250/mjpg/video.mjpg</link>
+<thumbnail>http://news-prod.wcu.edu/wp-content/uploads/2016/02/craig-daughtrey-for-web.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Soccer/football field in Vadsø, Norway</title>
+<link>http://kamera.vadso.kommune.no:190/axis-cgi/mjpg/video.cgi</link>
+<thumbnail>http://2.bp.blogspot.com/-ltGzEJT04sM/U7wAQ_-SKiI/AAAAAAAAGEI/IjCtesftpzg/s1600/zIMG_5600b.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Port Town,  Balestrand, Norway</title>
+<link>http://217.17.220.110/mjpg/video.mjpg</link>
+<thumbnail>http://boostvacations.com/wp-content/uploads/2014/07/Balestrand-Norway-Map-Port-of-Call-Cruise-Discounts-from-BoostVacations-.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Bbuilding Front in Hungary</title>
+<link>http://87.101.127.24/mjpg/video.mjpg</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Hungary.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Atlantic Eyrie Lodge</title>
+<link>http://webcam.atlanticeyrielodge.com/mjpg/video.mjpg?camera=1&resolution=640x480&rotation=0</link>
+<thumbnail>http://www.exploremainetoday.com/image-files/bar-harbor-maine-hotels-atlantic-eyrie-lodge.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>City Cam, Sortland, Nordland, Norway</title>
+<link>http://webkamera.vesteralskraft.no/mjpg/video.mjpg</link>
+<thumbnail>https://mw2.google.com/mw-panoramio/photos/medium/10814405.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Petersburg 4way</title>
+<link>http://doma-invest.axiscam.net/mjpg/video.mjpg</link>
+<thumbnail>http://russiapedia.rt.com/files/galleries/miniature-moscow-city-gallery/miniature-moscow-city-gallery_15.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>ClimateCam</title>
+<link>http://climatecam.gi.alaska.edu/mjpg/video.mjpg</link>
+<thumbnail>http://www.rainharvest.co.za/wp-content/uploads/2012/11/climate_cam.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Gordon Center Uni of Chicago</title>
+<link>http://c-cam.uchicago.edu/mjpg/video.mjpg</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f9/University_of_Chicago_July_2013_32_%28Gordon_Center_for_Integrative_Science%29.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Purdue Engineering Mall</title>
+<link>http://webcam01.ecn.purdue.edu/mjpg/video.mjpg</link>
+<thumbnail>http://static.panoramio.com/photos/large/14538945.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Neat Clocktower</title>
+<link>http://webcam.sonoma.edu/mjpg/video.mjpg</link>
+<thumbnail>http://www.wired.com/wp-content/uploads/images_blogs/wiredscience/2011/06/clock-tower.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Riverside Varhaug, Rogaland, Norway</title>
+<link>http://skolten.info:8080/mjpg/video.mjpg</link>
+<thumbnail>http://i.nona.net/locmap_VARHAUG_5.482X58.4966667X5.818X58.7366667.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Intersection (HAVE NO CLUE WHERE)</title>
+<link>http://cam1.infolink.ru/mjpg/video.mjpg</link>
+<thumbnail>http://www.johnnosta.com/wp-content/uploads/2012/02/intersection1.png</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Backyard, Confederated Tribes of Warm Springs Oregon</title>
+<link>http://67.59.80.24/mjpg/video.mjpg</link>
+<thumbnail>http://seattletimes.nwsource.com/ABPub/2010/07/27/2012464665.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>City of Cleveland Water Intake Crib</title>
+<link>http://206.140.121.226/mjpg/video.mjpg</link>
+<thumbnail>http://3.bp.blogspot.com/-WP4E7kf305o/UBXX8WTL5aI/AAAAAAAAAWM/yH1wbS1ywtM/s1600/037.JPG</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>

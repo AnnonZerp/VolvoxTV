@@ -1,0 +1,200 @@
+<item>
+<title>The Hunt Channel</title>
+<sportsdevil>http://www.filmon.com/channel/hunt-channel</sportsdevil>
+<referer>referer=http://www.filmon.com/</referer>
+<thumbnail>http://www.outdoorchannel.com/content/Photos/nineladieshunting/MWG.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Meat Eater Channel</title>
+<link>http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8?token=cd6dd2f537854de31d03437ac89a257d86400</link>
+<thumbnail>http://www.ammoland.com/wp-content/uploads/2016/02/Meat-Eater.jpg?606f1a</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Pursuit Channel HD</title>
+<sportsdevil>http://www.filmon.com/channel/pursuit-channel</sportsdevil>
+<referer>referer=http://www.filmon.com/</referer>
+<thumbnail>http://1.bp.blogspot.com/-ixMR9j6O4AY/U67pGTeno2I/AAAAAAAACzg/m68-udvvyuM/s1600/Pursuit+Channel+Icon.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>The Sportsman Channel HD</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCH495H0ZkAFN1jBiQ8potqg/?page=0</jsonrpc>
+<thumbnail>http://d2x1oedzzjp4du.cloudfront.net/uploads/production/document/picture/32/NRA_News_Headers_SportsmanChannel.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Gone Wild Outdoors HD</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCoI8KChwNneRuRUdJiLrlWw/?page=0</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/1241845034/GoneWildOutdoorsLogo_Black_med.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Primos Hunting TV</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCeEqC6QaYD5ksJ6X_WxJuzA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-5_Afz09C8RE/AAAAAAAAAAI/AAAAAAAAAAA/2snyIS2E0Co/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Squirrel Hunter TV</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCHMuDvc7quBoy-tzr_rP0wA/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/--C_kGVGn9XE/AAAAAAAAAAI/AAAAAAAAAAA/DOBycBMCOAM/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Hunt The Rush TV</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCAOdL0YjSwAd6Z-NXpd9TFQ/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-KKu6pej-BgM/AAAAAAAAAAI/AAAAAAAAAAA/zRVd2vu5h1U/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Savage Outdoors</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCEMcZKaA2gyjDr0e_AbwL1A/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-m4jGM7W7GRY/AAAAAAAAAAI/AAAAAAAAAAA/_fu9FciIm2U/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>
+314299 Shooting Channel</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC3P4NjwrpOykLBk2-UTVB8g/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-VV8mE5g8JqM/AAAAAAAAAAI/AAAAAAAAAAA/3gEMju97Tg8/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Eddy's Reloads</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCYimb3m926Qu8k59ZM2SGLw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-Fi-ST5Pbyyk/AAAAAAAAAAI/AAAAAAAAAAA/Vl8UQvqp_Oo/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>Iraqveteran8888
+</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCWJHDMgKWWvOsdyRF3HPVEw/?page=0</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/-1pmWadfqdTg/AAAAAAAAAAI/AAAAAAAAAAA/HIV8nUxDbUg/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
+</item>
+
+<item>
+<title>World of Rush Outdoors - Freezer Filling</title>
+<link>https://vimeo.com/169000039</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>The Real Deal - The Northern McNays Go West</title>
+<link>https://vimeo.com/169000038</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Final Pursuit TV - Hog Crazy With Sniper Hog Lights</title>
+<link>https://vimeo.com/168855923</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Northern Michigan Outfitters - Texas Deer Hunt & Michigan Trout Fishing</title>
+<link>https://vimeo.com/168100314</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Destiny Outdoors TV - Train Up a Child</title>
+<link>https://vimeo.com/167797704</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Ashley’s First Buck</title>
+<link>https://vimeo.com/117113233</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Episode 8 - Collecting Bacon</title>
+<link>https://vimeo.com/120370236</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Episode 8 - Collecting Bacon</title>
+<link>https://vimeo.com/120370236</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Episode 9 - All in Good Fun</title>
+<link>https://vimeo.com/121605990</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Episode 10 - 704 Invades Canada</title>
+<link>https://vimeo.com/122986079</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>704 Outdoors - Episode 11 - 704 Invades Canada Part 2</title>
+<link>https://vimeo.com/123888059</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Episode 12 - Smashing Beaks Revised</title>
+<link>https://vimeo.com/124164419</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Episode 13 - Turkey Throwdown</title>
+<link>https://vimeo.com/126437026</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Episode 14 - WI Turkey Hunt</title>
+<link>https://vimeo.com/128927016</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>704 Outdoors - Episode 15 - WI Turkey Hunt Part 2</title>
+<link>https://vimeo.com/129977091</link>
+<thumbnail>http://huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/ya46xn1Bjc4/maxresdefault.jpg</fanart>
+</item>
