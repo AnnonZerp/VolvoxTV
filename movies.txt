@@ -1,6 +1,0 @@
-<item>
-<title>Dead Pool</title>
-<link>https://lh3.googleusercontent.com/ZPOrXlFmB3WtkYUpFJKDwOGSb4qgjfuLQ2FvKIJqxuG9NUuFhM6kKa4dixJjbjSknTKWVRi5zQ=m22/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
