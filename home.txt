@@ -7,19 +7,11 @@
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>Live TV</info>
 </channel>
 
 <channel>
 <name>Movies</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>SimpleKore.com</info>
-</channel>
-
-<channel>
-<name>Youtube</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
