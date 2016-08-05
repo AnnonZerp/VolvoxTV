@@ -140,14 +140,6 @@
 </channel>
 
 <channel>
-<name>Adult</name>
-<thumbnail>https://github.com/AnnonZerp/VolvoxTV/blob/master/Adults_only.jpg?raw=true</thumbnail>
-<externallink>https://raw.githubusercontent.com/AnnonZerp/VolvoxTV/master/adult.txt</externallink>
-<fanart>http://www.pixhoster.info/f/2016-07/7ff17756f5a69a200cf7788b25a438a3.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
 <name>Test</name>
 <thumbnail>http://www.pixhoster.info/f/2016-07/fde08debbdae3057a7c70655f53049a3.png</thumbnail>
 <externallink>https://goo.gl/uUrwpM</externallink>
